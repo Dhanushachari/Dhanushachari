@@ -9,11 +9,13 @@ Infrastructure • Systems • Automation
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=22F7E2&center=true&vCenter=true&width=600&lines=Infrastructure+Enthusiast;Windows+%26+Linux+Systems;PowerShell+Automation;Technical+Troubleshooting;Always+Learning+New+Things" />
 </p>
+
+
 ## 👨‍💻 About Me
 
 <br>
 
-<img align="right" width="320" src="YOUR_GIF_LINK">
+<img align="right" width="340" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif">
 
 🔍 I spend a lot of time exploring **how systems actually behave behind the scenes.**
 
@@ -24,6 +26,8 @@ Infrastructure • Systems • Automation
 **how real environments work and how to troubleshoot them efficiently.**
 
 <br><br>
+
+---
 
 
 
