@@ -11,6 +11,23 @@ Infrastructure • Systems • Automation
 </p>
 
 ---
+<br>
+
+## 👨‍💻 About Me
+
+<br>
+
+<img align="right" width="340" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
+
+I spend a lot of time exploring how systems actually behave behind the scenes.
+
+Most of my learning happens through **building small labs, experimenting with configurations, and sometimes intentionally breaking things to understand how they fail.**
+
+Right now my focus is on understanding how real environments work and how to troubleshoot them efficiently.
+
+<br><br>
+
+---
 
 <!-- FOOTER -->
 
