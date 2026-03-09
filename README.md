@@ -30,8 +30,6 @@ Infrastructure • Systems • Automation
 
 <br><br>
 
-<br><br><br>
-
 ## 🌐 Connect With Me
 
 <br>
