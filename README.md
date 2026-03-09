@@ -10,12 +10,11 @@ Infrastructure • Systems • Automation
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=22F7E2&center=true&vCenter=true&width=600&lines=Infrastructure+Enthusiast;Windows+%26+Linux+Systems;PowerShell+Automation;Technical+Troubleshooting;Always+Learning+New+Things" />
 </p>
 
-
 ## 👨‍💻 About Me
 
 <br>
 
-<img align="right" width="340" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif">
+<img align="right" width="300" src="https://cdnl.iconscout.com/lottie/premium/thumb/software-developer-working-at-office-animation-gif-download-7495614.gif">
 
 🔍 I spend a lot of time exploring **how systems actually behave behind the scenes.**
 
