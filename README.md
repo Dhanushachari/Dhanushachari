@@ -1,93 +1,44 @@
-<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Dhanush Achari</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Dhanush%20Achari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<h3 align="center">Systems • Infrastructure • Automation</h3>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=900&color=22F7E2&center=true&vCenter=true&width=650&lines=Exploring+Infrastructure;Windows+and+Linux+Systems;Automation+with+PowerShell;Learning+by+Breaking+Things;Always+Curious+About+Systems"/>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Infrastructure+Troubleshooter;Automation+Learner;Systems+Explorer;Curious+about+How+Things+Break+and+How+They+Work"/>
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f2027,50:203a43,100:2c5364&section=header"/>
 
+---
+
+<!-- Matrix style animation -->
+<p align="center">
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="900">
 </p>
 
 ---
+
+<img align="right" alt="tech" width="360" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
 ## About Me
 
-I enjoy working close to the systems layer — understanding how infrastructure behaves, how services fail, and how small improvements in automation can remove hours of repetitive work.
+I spend a lot of time exploring how systems actually behave behind the scenes.
 
-Most of my current focus is around:
+Most of my learning happens through **building small labs, experimenting with configurations, and sometimes intentionally breaking things to understand how they fail.**
 
-• troubleshooting system issues  
-• learning infrastructure fundamentals  
-• experimenting with automation  
-• building small labs to understand real-world behaviour  
+Right now my focus is on understanding how real environments work and how to troubleshoot them efficiently.
 
-My approach is simple:  
-**observe → break → fix → automate → document**
+Some areas I'm exploring more deeply:
 
----
-
-## Tools & Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,github,docker,vscode"/>
-
-</p>
+• Windows administration and infrastructure behaviour  
+• Linux command-line troubleshooting  
+• PowerShell scripting for automation  
+• Understanding logs, monitoring, and system health
 
 ---
 
-## Current Learning Focus
-
-<table>
-<tr>
-<td>
-
-Active Directory Lab  
-Experimenting with user management, policies, authentication behaviour, and domain structure.
-
-</td>
-<td>
-
-PowerShell Automation  
-Building scripts that automate routine administrative tasks and health checks.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-Linux Troubleshooting  
-Documenting common system issues and practical fixes discovered during lab testing.
-
-</td>
-<td>
-
-Monitoring Experiments  
-Trying different ways to observe logs, services, and system health.
-
-</td>
-</tr>
-</table>
-
----
-
-## A Bit About My Approach
-
-I’m naturally drawn toward the **“why did this break?”** side of systems.
-
-Logs, permissions, network behaviour, unexpected errors —  
-those situations where something small causes a much bigger issue.
-
-That curiosity is what pushes me to keep experimenting and learning.
-
----
-
-## System Mindset
-
-• If something fails once, understand **why**.  
-• If something repeats twice, **automate it**.  
-• If something looks simple, **check the logs anyway**.
+<!-- divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
 
 ---
 
@@ -95,24 +46,73 @@ That curiosity is what pushes me to keep experimenting and learning.
 
 <p align="center">
 
-<a href="https://github.com/dhanushachari">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
+<a href="https://www.linkedin.com/in/dhanush-nani-539020258/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+<a href="mailto:dhanushachari2002@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://leetcode.com/dhanushachari/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-black?style=for-the-badge&logo=leetcode">
+</a>
+
+<a href="https://www.hackerrank.com/dhanushnani3665">
+<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank">
 </a>
 
 </p>
 
 ---
+
+## Tools & Technologies
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=dhanushachari&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,python,git,docker,vscode"/>
 
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<!-- terminal animation -->
+<p align="center">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="850">
+</p>
+
+---
+
+## What I'm Currently Working On
+
+• Building a Windows Server home lab  
+• Practicing PowerShell scripting and automation  
+• Improving Linux troubleshooting skills  
+• Understanding how monitoring tools observe system behaviour  
+
+---
+
+## Labs & Experiments
+
+🔹 **Active Directory Lab**  
+Exploring user management, policies, and authentication behaviour.
+
+🔹 **PowerShell Automation Toolkit**  
+Small scripts designed to automate routine administrative checks.
+
+🔹 **Linux Troubleshooting Notes**  
+A growing collection of notes covering common system issues and fixes.
+
+🔹 **Monitoring Experiments**  
+Trying different ways to observe system health and understand logs.
+
+---
+
+<!-- troubleshooting animation -->
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="850">
+</p>
+
+---
+
+## Troubleshooting Flow
