@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dhanush Achari</h1>
 
-<h3 align="center">
-Systems & Infrastructure Enthusiast | Automation Learner
-</h3>
+<h3 align="center">Systems • Infrastructure • Automation</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=22F7E2&center=true&vCenter=true&width=600&lines=Infrastructure+Exploration;Windows+%26+Linux+Systems;PowerShell+Automation;Technical+Troubleshooting;Learning+Something+New+Every+Day" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=900&color=22F7E2&center=true&vCenter=true&width=600&lines=Exploring+Infrastructure;Windows+and+Linux+Systems;Automation+with+PowerShell;Learning+by+Breaking+Things;Always+Curious+About+Systems" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-8c0c4e4e-8bb1-4c70-a1a5-4e8b7c70e0fa.gif" width="900">
 </p>
 
 ---
@@ -14,46 +16,54 @@ Systems & Infrastructure Enthusiast | Automation Learner
 
 ## About Me
 
-I'm someone who enjoys understanding how systems work behind the scenes.
+I spend a lot of time exploring how systems actually behave behind the scenes.
 
-Most of my time currently goes into building small infrastructure labs, breaking things intentionally, and then figuring out how to fix them again.
+Most of my learning happens through **building small labs, experimenting with configurations, and sometimes intentionally breaking things to understand how they fail.**
 
-Right now I'm focusing on:
+Right now my focus is on understanding how real environments work and how to troubleshoot them efficiently.
 
-• Windows administration and system behaviour  
-• Linux fundamentals and troubleshooting  
-• Writing PowerShell scripts to automate repetitive tasks  
-• Understanding how enterprise environments are structured  
+Some areas I'm exploring more deeply:
 
-The goal is simple: become someone who can **diagnose problems quickly and keep systems running smoothly.**
+• Windows administration and infrastructure behaviour  
+• Linux command-line troubleshooting  
+• PowerShell scripting for automation  
+• Understanding logs, monitoring, and system health
 
 ---
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750317-2c58c7b7-48e2-4fa1-a45a-f18efb1e3d30.gif" width="900">
+</p>
+
 ## Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/dhanush-nani-539020258/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:dhanushachari2002@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
 <a href="https://leetcode.com/dhanushachari/">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-black?style=for-the-badge&logo=leetcode">
 </a>
 
 <a href="https://www.hackerrank.com/dhanushnani3665">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank">
 </a>
 
 </p>
 
 ---
 
-## Tools & Technologies I Work With
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749720-1b742b89-bc9c-4f9a-bc52-65e7e6d91a3d.gif" width="900">
+</p>
+
+## Tools & Technologies
 
 <p align="center">
 
@@ -70,94 +80,74 @@ The goal is simple: become someone who can **diagnose problems quickly and keep 
 
 ---
 
-## What I'm Currently Working On
-
-• A Windows Server home lab to understand Active Directory basics  
-• A small collection of PowerShell scripts for automation  
-• Improving Linux command line troubleshooting  
-• Learning how monitoring tools work and how logs tell the real story
-
----
-
-## Labs & Projects I'm Building
-
-Active Directory Lab  
-Experimenting with user management, policies and authentication behaviour.
-
-PowerShell Automation Toolkit  
-Scripts that automate routine administrative checks.
-
-Linux Troubleshooting Notes  
-A growing set of notes on common system issues and fixes.
-
-Monitoring Experiments  
-Testing different approaches to observe system health and logs.
-
----
-
-## GitHub Analytics
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhanushachari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushachari&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://user-images.githubusercontent.com/74038190/212750217-1f29b63d-59c0-44fa-9a2d-d49a1c9c3a8c.gif" width="900">
 </p>
 
+## What I'm Currently Working On
+
+• Building a Windows Server home lab  
+• Practicing PowerShell scripting and automation  
+• Improving Linux troubleshooting skills  
+• Understanding how monitoring tools observe system behaviour  
+
 ---
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750322-34c1f8d0-4c64-4e6e-b3c4-8a87a37d6d1d.gif" width="900">
+</p>
+
+## Labs & Experiments
+
+🔹 **Active Directory Lab**  
+Exploring user management, policies, and authentication behaviour.
+
+🔹 **PowerShell Automation Toolkit**  
+Small scripts designed to automate routine administrative checks.
+
+🔹 **Linux Troubleshooting Notes**  
+A growing collection of notes covering common system issues and fixes.
+
+🔹 **Monitoring Experiments**  
+Trying different ways to observe system health and understand logs.
+
+---
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750299-7e8d0df9-9b7b-4e6e-a8a1-5a8f0b8f3a47.gif" width="900">
+</p>
 
 ## System Mindset
 
-Most of the interesting learning happens when something breaks.
+Most interesting technical lessons appear when something behaves unexpectedly.
 
-That moment when a service fails, logs start filling up with errors, and the system behaves strangely — that's usually where the real learning starts.
+A service stops responding.  
+A log file starts filling with strange errors.  
+A configuration change causes side effects.
 
-Understanding **why something broke** is far more interesting than just restarting it and hoping it works again.
-
----
-
-## A Small Reality About Troubleshooting
-
-Sometimes fixing a system issue looks like this:
-
-1. Check logs  
-2. Google error message  
-3. Try solution  
-4. Break something else  
-5. Panic briefly  
-6. Fix original issue  
-7. Forget to document what actually solved it
-
-I'm working on improving step **7**.
-
----
-
-## What I'm Curious About Next
-
-• How large production infrastructure is monitored  
-• How automation reduces repetitive admin work  
-• Better approaches to diagnosing system failures  
-• Building reliable troubleshooting playbooks
-
----
-
-## Learning Roadmap
-
-Currently exploring and improving knowledge in:
-
-Windows Server administration  
-Active Directory fundamentals  
-Linux system internals  
-Automation using PowerShell  
-Infrastructure monitoring concepts
+That moment of **figuring out why something broke** is usually where the best learning happens.
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=dhanushachari&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://user-images.githubusercontent.com/74038190/212749728-f09cc5cc-df47-4d3a-91de-ff2a0a0c5c71.gif" width="900">
+</p>
+
+## Things I'm Curious About Next
+
+• How production infrastructure is monitored at scale  
+• How automation reduces repetitive operational tasks  
+• Building reliable troubleshooting playbooks  
+• Understanding system failures faster through logs and metrics
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dhanushachari&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
 
-Curious about systems, automation, and figuring out why things break.
+<p align="center">
+Curious about systems, automation, and the small details that keep infrastructure running.
+</p>
