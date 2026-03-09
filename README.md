@@ -1,153 +1,118 @@
-<h1 align="center">Hi 👋, I'm Dhanush Achari</h1>
+<!-- Animated Header -->
 
-<h3 align="center">Systems • Infrastructure • Automation</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=900&color=22F7E2&center=true&vCenter=true&width=600&lines=Exploring+Infrastructure;Windows+and+Linux+Systems;Automation+with+PowerShell;Learning+by+Breaking+Things;Always+Curious+About+Systems" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Dhanush%20Achari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749695-8c0c4e4e-8bb1-4c70-a1a5-4e8b7c70e0fa.gif" width="900">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Infrastructure+Troubleshooter;Automation+Learner;Systems+Explorer;Curious+about+How+Things+Break+and+How+They+Work"/>
+
 </p>
 
 ---
-
-<img align="right" alt="tech" width="360" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
 ## About Me
 
-I spend a lot of time exploring how systems actually behave behind the scenes.
+I enjoy working close to the systems layer — understanding how infrastructure behaves, how services fail, and how small improvements in automation can remove hours of repetitive work.
 
-Most of my learning happens through **building small labs, experimenting with configurations, and sometimes intentionally breaking things to understand how they fail.**
+Most of my current focus is around:
 
-Right now my focus is on understanding how real environments work and how to troubleshoot them efficiently.
+• troubleshooting system issues  
+• learning infrastructure fundamentals  
+• experimenting with automation  
+• building small labs to understand real-world behaviour  
 
-Some areas I'm exploring more deeply:
-
-• Windows administration and infrastructure behaviour  
-• Linux command-line troubleshooting  
-• PowerShell scripting for automation  
-• Understanding logs, monitoring, and system health
-
----
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750317-2c58c7b7-48e2-4fa1-a45a-f18efb1e3d30.gif" width="900">
-</p>
-
-## Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/dhanush-nani-539020258/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:dhanushachari2002@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://leetcode.com/dhanushachari/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-black?style=for-the-badge&logo=leetcode">
-</a>
-
-<a href="https://www.hackerrank.com/dhanushnani3665">
-<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank">
-</a>
-
-</p>
+My approach is simple:  
+**observe → break → fix → automate → document**
 
 ---
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749720-1b742b89-bc9c-4f9a-bc52-65e7e6d91a3d.gif" width="900">
-</p>
 
 ## Tools & Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=windows" />
-<img src="https://skillicons.dev/icons?i=bash" />
-<img src="https://skillicons.dev/icons?i=powershell" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,github,docker,vscode"/>
 
 </p>
 
 ---
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750217-1f29b63d-59c0-44fa-9a2d-d49a1c9c3a8c.gif" width="900">
-</p>
+## Current Learning Focus
 
-## What I'm Currently Working On
+<table>
+<tr>
+<td>
 
-• Building a Windows Server home lab  
-• Practicing PowerShell scripting and automation  
-• Improving Linux troubleshooting skills  
-• Understanding how monitoring tools observe system behaviour  
+Active Directory Lab  
+Experimenting with user management, policies, authentication behaviour, and domain structure.
+
+</td>
+<td>
+
+PowerShell Automation  
+Building scripts that automate routine administrative tasks and health checks.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Linux Troubleshooting  
+Documenting common system issues and practical fixes discovered during lab testing.
+
+</td>
+<td>
+
+Monitoring Experiments  
+Trying different ways to observe logs, services, and system health.
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750322-34c1f8d0-4c64-4e6e-b3c4-8a87a37d6d1d.gif" width="900">
-</p>
+## A Bit About My Approach
 
-## Labs & Experiments
+I’m naturally drawn toward the **“why did this break?”** side of systems.
 
-🔹 **Active Directory Lab**  
-Exploring user management, policies, and authentication behaviour.
+Logs, permissions, network behaviour, unexpected errors —  
+those situations where something small causes a much bigger issue.
 
-🔹 **PowerShell Automation Toolkit**  
-Small scripts designed to automate routine administrative checks.
-
-🔹 **Linux Troubleshooting Notes**  
-A growing collection of notes covering common system issues and fixes.
-
-🔹 **Monitoring Experiments**  
-Trying different ways to observe system health and understand logs.
+That curiosity is what pushes me to keep experimenting and learning.
 
 ---
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750299-7e8d0df9-9b7b-4e6e-a8a1-5a8f0b8f3a47.gif" width="900">
-</p>
 
 ## System Mindset
 
-Most interesting technical lessons appear when something behaves unexpectedly.
-
-A service stops responding.  
-A log file starts filling with strange errors.  
-A configuration change causes side effects.
-
-That moment of **figuring out why something broke** is usually where the best learning happens.
+• If something fails once, understand **why**.  
+• If something repeats twice, **automate it**.  
+• If something looks simple, **check the logs anyway**.
 
 ---
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749728-f09cc5cc-df47-4d3a-91de-ff2a0a0c5c71.gif" width="900">
-</p>
-
-## Things I'm Curious About Next
-
-• How production infrastructure is monitored at scale  
-• How automation reduces repetitive operational tasks  
-• Building reliable troubleshooting playbooks  
-• Understanding system failures faster through logs and metrics
-
----
+## Connect With Me
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=dhanushachari&label=Profile%20Views&color=blueviolet&style=flat" />
+
+<a href="https://github.com/dhanushachari">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-Curious about systems, automation, and the small details that keep infrastructure running.
+
+<img src="https://komarev.com/ghpvc/?username=dhanushachari&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
 </p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
