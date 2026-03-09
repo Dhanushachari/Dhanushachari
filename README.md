@@ -16,21 +16,22 @@ Infrastructure • Systems • Automation
 
 <br>
 
-<img align="right" width="340" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
+<p align="center">
 
-🔍 I spend a lot of time exploring **how systems actually behave behind the scenes.**
+<img align="right" width="320" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
-🧪 Most of my learning happens through  
-**building small labs, experimenting with configurations, and sometimes intentionally breaking things** to understand how they fail.
+</p>
 
-⚙️ Right now my focus is on understanding  
-**how real environments work and how to troubleshoot them efficiently.**
+<p align="left">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=180&section=header&text=%20%20%20%20I%20spend%20a%20lot%20of%20time%20exploring%20how%20systems%20actually%20behave%20behind%20the%20scenes.%20%20%20%20Most%20of%20my%20learning%20happens%20through%20building%20small%20labs,%20experimenting%20with%20configurations,%20and%20sometimes%20intentionally%20breaking%20things%20to%20understand%20how%20they%20fail.%20%20%20%20Right%20now%20my%20focus%20is%20on%20understanding%20how%20real%20environments%20work%20and%20how%20to%20troubleshoot%20them%20efficiently.&fontSize=16&fontColor=ffffff&animation=fadeIn"/>
+
+</p>
 
 <br><br>
 
 ---
 
----
 
 <!-- FOOTER -->
 
