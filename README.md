@@ -10,33 +10,21 @@ Infrastructure • Systems • Automation
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=22F7E2&center=true&vCenter=true&width=600&lines=Infrastructure+Enthusiast;Windows+%26+Linux+Systems;PowerShell+Automation;Technical+Troubleshooting;Always+Learning+New+Things" />
 </p>
 
-<br>
-
 ## 👨‍💻 About Me
 
 <br>
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" width="340" src="https://assets2.lottiefiles.com/packages/lf20_AUNc4qDJk8.gif">
 
-I spend a lot of time exploring how systems actually behave behind the scenes.
+🔍 I spend a lot of time exploring **how systems actually behave behind the scenes.**
 
-Most of my learning happens through **building small labs, experimenting with configurations, and sometimes intentionally breaking things to understand how they fail.**
+🧪 Most of my learning happens through  
+**building small labs, experimenting with configurations, and sometimes intentionally breaking things** to understand how they fail.
 
-Right now my focus is on understanding how real environments work and how to troubleshoot them efficiently.
+⚙️ Right now my focus is on understanding  
+**how real environments work and how to troubleshoot them efficiently.**
 
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="320">
-
-</td>
-</tr>
-</table>
-
-<br>
+<br><br>
 
 ---
 ---
