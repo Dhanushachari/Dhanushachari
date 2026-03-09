@@ -1,54 +1,54 @@
 <h1 align="center">Hi 👋, I'm Dhanush Achari</h1>
 
 <h3 align="center">
-Infrastructure & Systems Enthusiast | Technical Support Specialist | Automation Learner
+Infrastructure • Systems • Automation
 </h3>
 
 <p align="center">
-Building practical IT solutions, automation scripts, and infrastructure labs.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Infrastructure+Automation;Windows+%26+Linux+Systems;PowerShell+Scripting;System+Troubleshooting;Continuous+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=22F7E2&center=true&vCenter=true&width=600&lines=Infrastructure+Enthusiast;Windows+%26+Linux+Systems;PowerShell+Automation;Technical+Troubleshooting;Always+Learning+New+Things" />
 </p>
 
 ---
 
-<img align="right" alt="coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="tech" width="360" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💻 Technical support professional passionate about **IT infrastructure**
-- 🛠 Building **home labs to simulate enterprise environments**
-- ⚙️ Learning **automation using PowerShell and scripting**
-- 🧠 Focused on **system troubleshooting and reliability**
-- 📚 Continuously improving **Linux, Windows, and infrastructure skills**
+• Passionate about **IT Infrastructure & System Reliability**  
+• Building **home labs to simulate enterprise environments**  
+• Learning **PowerShell automation and system administration**  
+• Interested in **Linux, Windows, networking and troubleshooting**  
+• Always curious about **how systems break and how to fix them**
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/dhanush-nani-539020258/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dhanushachari2002@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/dhanushachari/">
-<img src="https://skillicons.dev/icons?i=leetcode" />
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
 </a>
 
 <a href="https://www.hackerrank.com/dhanushnani3665">
-<img src="https://skillicons.dev/icons?i=hackerrank" />
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-### ⚙️ Infrastructure & Tools
+## ⚙️ Infrastructure & Tools
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=linux" />
 <img src="https://skillicons.dev/icons?i=windows" />
@@ -63,17 +63,37 @@ Building practical IT solutions, automation scripts, and infrastructure labs.
 
 ---
 
-### 🚀 Current Focus
+## 🚀 What I'm Currently Working On
 
-- Windows Server administration
-- Active Directory concepts
-- PowerShell automation
-- Linux system troubleshooting
-- Infrastructure monitoring tools
+🖥 Building **Windows Server & Active Directory home lab**
+
+⚡ Writing **PowerShell automation scripts**
+
+🐧 Improving **Linux system troubleshooting**
+
+📊 Exploring **monitoring & system diagnostics**
+
+🔧 Documenting **real-world troubleshooting scenarios**
 
 ---
 
-### 📊 GitHub Analytics
+## 🧪 Lab Projects I'm Building
+
+🖥 **Active Directory Lab**  
+User management, Group Policy, authentication testing  
+
+⚡ **PowerShell Automation Toolkit**  
+Scripts for system checks, logs and automation  
+
+🐧 **Linux Troubleshooting Notes**  
+Common issues, fixes, and command guides  
+
+📊 **System Monitoring Lab**  
+Monitoring system performance and logs
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
 
@@ -85,30 +105,22 @@ Building practical IT solutions, automation scripts, and infrastructure labs.
 
 ---
 
-### 🔥 Contribution Streak
+## ⚡ System Mindset
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=dhanushachari&theme=tokyonight&hide_border=true"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450">
+</p>
+
+<p align="center">
+Understanding systems, breaking them, fixing them, and making them better.
 </p>
 
 ---
 
-### 🧪 Labs & Projects I'm Building
-
-- 🖥 Active Directory Home Lab
-- ⚡ PowerShell Automation Toolkit
-- 🐧 Linux Troubleshooting Scripts
-- 📊 Infrastructure Monitoring Setup
-- 🔐 System Hardening Experiments
-
----
-
-### 📈 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=dhanushachari&label=Profile%20Views&color=blueviolet&style=flat" />
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dhanushachari&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-⭐ *“Always curious about how systems work and how to make them better.”*
+⭐ *Curious about systems, automation, and solving technical problems.*
