@@ -26,6 +26,40 @@ Infrastructure • Systems • Automation
 
 <br><br>
 
+<br><br><br>
+
+## 🌐 Connect With Me
+
+<br>
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://twitter.com/YOUR_USERNAME">
+<img src="https://cdn.simpleicons.org/x/ffffff" width="40" height="40"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40"/>
+</a>
+
+</p>
+
+<br><br>
+
 ---
 
 
