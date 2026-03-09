@@ -24,6 +24,10 @@ Infrastructure • Systems • Automation
 ⚙️ Right now my focus is on understanding  
 **how real environments work and how to troubleshoot them efficiently.**
 
+🛠️ I like documenting what I learn, troubleshooting issues methodically, and improving my ability to analyze systems when something unexpected happens.
+
+📚 Outside of structured learning, I spend time exploring developer communities, solving problems on coding platforms, and continuously expanding my technical toolkit.
+
 <br><br>
 
 <br><br><br>
