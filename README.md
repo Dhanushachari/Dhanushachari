@@ -35,27 +35,23 @@ Infrastructure • Systems • Automation
 <p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42"/>
+<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42"/>
+<img src="https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://stackoverflow.com/users/YOUR_ID">
-<img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="42"/>
+<img src="https://img.shields.io/badge/StackOverflow-FFFFFF?style=for-the-badge&logo=stackoverflow&logoColor=F58025"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="42"/>
+<img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </p>
