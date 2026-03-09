@@ -1,28 +1,35 @@
 <h1 align="center">Hi 👋, I'm Dhanush Achari</h1>
 
 <h3 align="center">
-Infrastructure • Systems • Automation
+Systems & Infrastructure Enthusiast | Automation Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=22F7E2&center=true&vCenter=true&width=600&lines=Infrastructure+Enthusiast;Windows+%26+Linux+Systems;PowerShell+Automation;Technical+Troubleshooting;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=22F7E2&center=true&vCenter=true&width=600&lines=Infrastructure+Exploration;Windows+%26+Linux+Systems;PowerShell+Automation;Technical+Troubleshooting;Learning+Something+New+Every+Day" />
 </p>
 
 ---
 
 <img align="right" alt="tech" width="360" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
-## 👨‍💻 About Me
+## About Me
 
-• Passionate about **IT Infrastructure & System Reliability**  
-• Building **home labs to simulate enterprise environments**  
-• Learning **PowerShell automation and system administration**  
-• Interested in **Linux, Windows, networking and troubleshooting**  
-• Always curious about **how systems break and how to fix them**
+I'm someone who enjoys understanding how systems work behind the scenes.
+
+Most of my time currently goes into building small infrastructure labs, breaking things intentionally, and then figuring out how to fix them again.
+
+Right now I'm focusing on:
+
+• Windows administration and system behaviour  
+• Linux fundamentals and troubleshooting  
+• Writing PowerShell scripts to automate repetitive tasks  
+• Understanding how enterprise environments are structured  
+
+The goal is simple: become someone who can **diagnose problems quickly and keep systems running smoothly.**
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 
@@ -46,7 +53,7 @@ Infrastructure • Systems • Automation
 
 ---
 
-## ⚙️ Infrastructure & Tools
+## Tools & Technologies I Work With
 
 <p align="center">
 
@@ -63,41 +70,36 @@ Infrastructure • Systems • Automation
 
 ---
 
-## 🚀 What I'm Currently Working On
+## What I'm Currently Working On
 
-🖥 Building **Windows Server & Active Directory home lab**
-
-⚡ Writing **PowerShell automation scripts**
-
-🐧 Improving **Linux system troubleshooting**
-
-📊 Exploring **monitoring & system diagnostics**
-
-🔧 Documenting **real-world troubleshooting scenarios**
+• A Windows Server home lab to understand Active Directory basics  
+• A small collection of PowerShell scripts for automation  
+• Improving Linux command line troubleshooting  
+• Learning how monitoring tools work and how logs tell the real story
 
 ---
 
-## 🧪 Lab Projects I'm Building
+## Labs & Projects I'm Building
 
-🖥 **Active Directory Lab**  
-User management, Group Policy, authentication testing  
+Active Directory Lab  
+Experimenting with user management, policies and authentication behaviour.
 
-⚡ **PowerShell Automation Toolkit**  
-Scripts for system checks, logs and automation  
+PowerShell Automation Toolkit  
+Scripts that automate routine administrative checks.
 
-🐧 **Linux Troubleshooting Notes**  
-Common issues, fixes, and command guides  
+Linux Troubleshooting Notes  
+A growing set of notes on common system issues and fixes.
 
-📊 **System Monitoring Lab**  
-Monitoring system performance and logs
+Monitoring Experiments  
+Testing different approaches to observe system health and logs.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhanushachari&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhanushachari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushachari&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -105,15 +107,50 @@ Monitoring system performance and logs
 
 ---
 
-## ⚡ System Mindset
+## System Mindset
 
-<p align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450">
-</p>
+Most of the interesting learning happens when something breaks.
 
-<p align="center">
-Understanding systems, breaking them, fixing them, and making them better.
-</p>
+That moment when a service fails, logs start filling up with errors, and the system behaves strangely — that's usually where the real learning starts.
+
+Understanding **why something broke** is far more interesting than just restarting it and hoping it works again.
+
+---
+
+## A Small Reality About Troubleshooting
+
+Sometimes fixing a system issue looks like this:
+
+1. Check logs  
+2. Google error message  
+3. Try solution  
+4. Break something else  
+5. Panic briefly  
+6. Fix original issue  
+7. Forget to document what actually solved it
+
+I'm working on improving step **7**.
+
+---
+
+## What I'm Curious About Next
+
+• How large production infrastructure is monitored  
+• How automation reduces repetitive admin work  
+• Better approaches to diagnosing system failures  
+• Building reliable troubleshooting playbooks
+
+---
+
+## Learning Roadmap
+
+Currently exploring and improving knowledge in:
+
+Windows Server administration  
+Active Directory fundamentals  
+Linux system internals  
+Automation using PowerShell  
+Infrastructure monitoring concepts
 
 ---
 
@@ -123,4 +160,4 @@ Understanding systems, breaking them, fixing them, and making them better.
 
 ---
 
-⭐ *Curious about systems, automation, and solving technical problems.*
+Curious about systems, automation, and figuring out why things break.
