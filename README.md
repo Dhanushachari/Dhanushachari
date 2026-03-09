@@ -3,22 +3,12 @@
 <h3 align="center">Systems • Infrastructure • Automation</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=900&color=22F7E2&center=true&vCenter=true&width=650&lines=Exploring+Infrastructure;Windows+and+Linux+Systems;Automation+with+PowerShell;Learning+by+Breaking+Things;Always+Curious+About+Systems"/>
-</p>
-
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f2027,50:203a43,100:2c5364&section=header"/>
-
----
-
-<!-- Matrix style animation -->
-<p align="center">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="900">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=900&color=22F7E2&center=true&vCenter=true&width=600&lines=Exploring+Infrastructure;Windows+and+Linux+Systems;Automation+with+PowerShell;Learning+by+Breaking+Things;Always+Curious+About+Systems"/>
 </p>
 
 ---
 
-<img align="right" alt="tech" width="360" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
+<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ## About Me
 
@@ -34,11 +24,6 @@ Some areas I'm exploring more deeply:
 • Linux command-line troubleshooting  
 • PowerShell scripting for automation  
 • Understanding logs, monitoring, and system health
-
----
-
-<!-- divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
 
 ---
 
@@ -66,22 +51,26 @@ Some areas I'm exploring more deeply:
 
 ---
 
+<img align="right" width="250" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
+
 ## Tools & Technologies
 
-<p align="center">
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,python,git,docker,vscode"/>
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=windows" />
+<img src="https://skillicons.dev/icons?i=bash" />
+<img src="https://skillicons.dev/icons?i=powershell" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 
 </p>
 
 ---
 
-<!-- terminal animation -->
-<p align="center">
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="850">
-</p>
-
----
+<img align="right" width="250" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
 ## What I'm Currently Working On
 
@@ -91,6 +80,8 @@ Some areas I'm exploring more deeply:
 • Understanding how monitoring tools observe system behaviour  
 
 ---
+
+<img align="right" width="260" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
 
 ## Labs & Experiments
 
@@ -108,11 +99,39 @@ Trying different ways to observe system health and understand logs.
 
 ---
 
-<!-- troubleshooting animation -->
+## ⚡ System Mindset
+
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="850">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450">
+</p>
+
+Most interesting technical lessons appear when something behaves unexpectedly.
+
+A service stops responding.  
+A log file starts filling with strange errors.  
+A configuration change causes side effects.
+
+That moment of **figuring out why something broke** is usually where the best learning happens.
+
+---
+
+<img align="right" width="250" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
+## Things I'm Curious About Next
+
+• How production infrastructure is monitored at scale  
+• How automation reduces repetitive operational tasks  
+• Building reliable troubleshooting playbooks  
+• Understanding system failures faster through logs and metrics
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dhanushachari&label=Profile%20Views&color=blueviolet&style=flat"/>
 </p>
 
 ---
 
-## Troubleshooting Flow
+<p align="center">
+Curious about systems, automation, and the small details that keep infrastructure running.
+</p>
