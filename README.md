@@ -30,25 +30,37 @@ Infrastructure • Systems • Automation
 
 ## 🌐 Connect With Me
 
+<br>
+
 <p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://stackoverflow.com/users/YOUR_ID">
+<img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="42"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="42"/>
 </a>
 
 </p>
 
 <br>
-
----
 
 ---
 
