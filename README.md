@@ -28,7 +28,7 @@ Infrastructure • Systems • Automation
 
 📚 Outside of structured learning, I spend time exploring developer communities, solving problems on coding platforms, and continuously expanding my technical toolkit.
 
-<br><br>
+<br>
 
 ## 🌐 Connect With Me
 
