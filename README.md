@@ -30,35 +30,25 @@ Infrastructure • Systems • Automation
 
 ## 🌐 Connect With Me
 
-<br>
-
 <p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://cdn.simpleicons.org/x/ffffff" width="40" height="40"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
-<br><br>
+<br>
+
+---
 
 ---
 
