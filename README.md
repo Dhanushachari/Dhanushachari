@@ -9,8 +9,12 @@
 </h1>
 
 <h3 align="center">
-  IT Support Engineer | Windows & Infrastructure Troubleshooting | Learning Automation
+  IT Support Engineer | Windows Systems | Infrastructure Troubleshooting
 </h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"/>
+</p>
 
 
 
