@@ -73,7 +73,6 @@ Infrastructure • Systems • Automation
 </p>
 
 <br>
-<br><br>
 
 ## 🧰 Support Projects
 
