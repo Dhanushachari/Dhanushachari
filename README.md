@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Dhanush%20Achari&fontSize=42&fontAlignY=40&desc=IT%20Support%20%7C%20Systems%20Troubleshooting%20%7C%20Infrastructure%20Learning&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=230&section=header&text=Dhanush%20Achari&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Windows%20%7C%20Linux%20%7C%20PowerShell%20%7C%20IT%20Infrastructure&descAlignY=65"/>
 
 <h1 align="center">Hi 👋, I'm Dhanush Achari</h1>
 
