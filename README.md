@@ -194,6 +194,8 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 <br>
 
 
+
+
 <!-- FOOTER -->
 
 <p align="center">
@@ -204,4 +206,8 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 
 <p align="center">
 ⭐ Curious about systems, automation, and solving technical problems.
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 </p>
