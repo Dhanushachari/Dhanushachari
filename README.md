@@ -48,34 +48,43 @@ Infrastructure • Systems • Automation
 
 <br>
 
-<img align="right" width="120" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,linux,powershell,bash,python,git,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=windows,linux,powershell,bash,python,git,docker,vscode,github,azure"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Active%20Directory-0A66C2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Office365-D83B01?style=flat-square"/>
-<img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/OneDrive-0364B8?style=flat-square"/>
-<img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/ServiceNow-00A859?style=flat-square"/>
-<img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square"/>
-<img src="https://img.shields.io/badge/RDP-444444?style=flat-square"/>
-<img src="https://img.shields.io/badge/TeamViewer-0E8EE9?style=flat-square"/>
-<img src="https://img.shields.io/badge/AnyDesk-EF443B?style=flat-square"/>
-<img src="https://img.shields.io/badge/DNS-1E90FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/DHCP-2E8B57?style=flat-square"/>
-<img src="https://img.shields.io/badge/VPN-6A5ACD?style=flat-square"/>
-<img src="https://img.shields.io/badge/Printer%20Support-555555?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=networking"/>
 
 </p>
 
-<br><br>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Active%20Directory-0A66C2?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Office%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+<img src="https://img.shields.io/badge/OneDrive-0364B8?style=for-the-badge&logo=microsoftonedrive&logoColor=white"/>
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/ServiceNow-00A859?style=for-the-badge&logo=servicenow&logoColor=white"/>
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/RDP-444444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TeamViewer-0E8EE9?style=for-the-badge&logo=teamviewer&logoColor=white"/>
+<img src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DNS-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DHCP-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VPN-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Printer%20Support-555555?style=for-the-badge"/>
+
+</p>
+
+<br>
 
 ---
 
