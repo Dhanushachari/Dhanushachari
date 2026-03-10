@@ -43,21 +43,22 @@ Infrastructure • Systems • Automation
 </p>
 
 <br>
-<br><br>
 
 ## 🧰 Tools & Technologies
 
 <br>
 
-<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
 ### 💻 Systems & Automation
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=windows,linux,powershell,bash,python,git,docker,vscode,github"/>
 
-<br>
+</p>
 
 ### 🛠 IT Support & Infrastructure
+
+<p>
 
 <img src="https://img.shields.io/badge/Active%20Directory-0A66C2?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Office%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
@@ -73,6 +74,8 @@ Infrastructure • Systems • Automation
 <img src="https://img.shields.io/badge/DHCP-2E8B57?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/VPN-6A5ACD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Printer%20Support-555555?style=for-the-badge"/>
+
+</p>
 
 <br>
 
