@@ -74,7 +74,9 @@ Infrastructure • Systems • Automation
 
 <br>
 
-## 🧰 Support Projects
+<br><br>
+
+## 🧩 Infrastructure Projects
 
 <br>
 
@@ -83,31 +85,49 @@ Infrastructure • Systems • Automation
 
 <td width="33%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="90"/>
+<img src="https://img.icons8.com/color/96/windows-10.png"/>
 
-### Active Directory Lab
+<br>
 
-Simulating enterprise **user management, account unlocks, password resets, and group policy behavior** to understand real domain environments.
+<b>Active Directory Lab</b>
 
-</td>
+<br>
 
-<td width="33%" align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="90"/>
-
-### Windows Troubleshooting
-
-Practicing **system diagnostics, service failures, boot issues, high CPU usage, and disk performance troubleshooting**.
+<sub>
+Simulating enterprise user management, password resets, account unlocks, and group policy behavior to understand real domain environments.
+</sub>
 
 </td>
 
 <td width="33%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="90"/>
+<img src="https://img.icons8.com/color/96/windows-10.png"/>
 
-### Network Diagnostics
+<br>
 
-Testing **DNS resolution, DHCP behavior, VPN connectivity, and common LAN troubleshooting scenarios**.
+<b>Windows Troubleshooting</b>
+
+<br>
+
+<sub>
+Practicing system diagnostics including boot failures, service issues, high CPU usage, and disk performance troubleshooting.
+</sub>
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/color/96/networking-manager.png"/>
+
+<br>
+
+<b>Network Diagnostics</b>
+
+<br>
+
+<sub>
+Testing DNS resolution, DHCP behavior, VPN connectivity, and common LAN troubleshooting scenarios.
+</sub>
 
 </td>
 
@@ -117,31 +137,49 @@ Testing **DNS resolution, DHCP behavior, VPN connectivity, and common LAN troubl
 
 <td width="33%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" width="90"/>
+<img src="https://img.icons8.com/color/96/powershell.png"/>
 
-### PowerShell Scripts
+<br>
 
-Creating small **automation scripts for system checks, log analysis, and repetitive administrative tasks**.
+<b>PowerShell Automation</b>
 
-</td>
+<br>
 
-<td width="33%" align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="90"/>
-
-### Microsoft 365 Support
-
-Working with **Outlook configuration, OneDrive sync issues, SharePoint access problems, and mailbox troubleshooting**.
+<sub>
+Creating small automation scripts for system checks, log analysis, and repetitive administrative tasks.
+</sub>
 
 </td>
 
 <td width="33%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" width="90"/>
+<img src="https://img.icons8.com/color/96/microsoft-office-2019.png"/>
 
-### Remote Support Lab
+<br>
 
-Practicing **RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve user system issues remotely**.
+<b>Microsoft 365 Support</b>
+
+<br>
+
+<sub>
+Troubleshooting Outlook configuration, mailbox access issues, OneDrive sync problems, and SharePoint permissions.
+</sub>
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/color/96/remote-desktop.png"/>
+
+<br>
+
+<b>Remote Support Lab</b>
+
+<br>
+
+<sub>
+Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user system issues remotely.
+</sub>
 
 </td>
 
@@ -149,12 +187,6 @@ Practicing **RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve user 
 </table>
 
 <br>
-
----
-
-<br>
-
----
 
 ## 🤝 Let’s Connect
 
