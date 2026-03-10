@@ -77,23 +77,22 @@ Infrastructure • Systems • Automation
 
 ## 🧩 Infrastructure Projects
 
-<br>
+
 
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-<img src="https://img.icons8.com/color/96/windows-10.png"/>
+<img src="https://img.icons8.com/color/96/active-directory.png"/>
 
 <br>
 
-<b>Active Directory Lab</b>
+<h3>Active Directory Lab</h3>
 
-
-<sub>
+<p style="font-size:14px;">
 Simulating enterprise user management, password resets, account unlocks, and group policy behavior to understand real domain environments.
-</sub>
+</p>
 
 </td>
 
@@ -103,13 +102,11 @@ Simulating enterprise user management, password resets, account unlocks, and gro
 
 <br>
 
-<b>Windows Troubleshooting</b>
+<h3>Windows Troubleshooting</h3>
 
-
-
-<sub>
+<p style="font-size:14px;">
 Practicing system diagnostics including boot failures, service issues, high CPU usage, and disk performance troubleshooting.
-</sub>
+</p>
 
 </td>
 
@@ -119,13 +116,11 @@ Practicing system diagnostics including boot failures, service issues, high CPU 
 
 <br>
 
-<b>Network Diagnostics</b>
+<h3>Network Diagnostics</h3>
 
-
-
-<sub>
+<p style="font-size:14px;">
 Testing DNS resolution, DHCP behavior, VPN connectivity, and common LAN troubleshooting scenarios.
-</sub>
+</p>
 
 </td>
 
@@ -139,13 +134,11 @@ Testing DNS resolution, DHCP behavior, VPN connectivity, and common LAN troubles
 
 <br>
 
-<b>PowerShell Automation</b>
+<h3>PowerShell Automation</h3>
 
-
-
-<sub>
+<p style="font-size:14px;">
 Creating small automation scripts for system checks, log analysis, and repetitive administrative tasks.
-</sub>
+</p>
 
 </td>
 
@@ -155,13 +148,11 @@ Creating small automation scripts for system checks, log analysis, and repetitiv
 
 <br>
 
-<b>Microsoft 365 Support</b>
+<h3>Microsoft 365 Support</h3>
 
-
-
-<sub>
+<p style="font-size:14px;">
 Troubleshooting Outlook configuration, mailbox access issues, OneDrive sync problems, and SharePoint permissions.
-</sub>
+</p>
 
 </td>
 
@@ -171,18 +162,18 @@ Troubleshooting Outlook configuration, mailbox access issues, OneDrive sync prob
 
 <br>
 
-<b>Remote Support Lab</b>
+<h3>Remote Support Lab</h3>
 
-
-
-<sub>
+<p style="font-size:14px;">
 Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user system issues remotely.
-</sub>
+</p>
 
 </td>
 
 </tr>
 </table>
+
+<br>
 
 <br>
 
