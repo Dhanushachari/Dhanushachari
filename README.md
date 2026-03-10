@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:00D9F5&height=6&section=header"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhanush Achari</h1>
