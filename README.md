@@ -12,7 +12,6 @@ Infrastructure • Systems • Automation
 
 ## 👨‍💻 About Me
 
-<br>
 
 <img align="right" width="300" src="https://cdnl.iconscout.com/lottie/premium/thumb/software-developer-working-at-office-animation-gif-download-7495614.gif">
 
