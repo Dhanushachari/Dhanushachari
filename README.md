@@ -1,7 +1,6 @@
 <!-- HEADER -->
-
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="8">
+<img src="https://i.imgur.com/waxVImv.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhanush Achari</h1>
