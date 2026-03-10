@@ -14,7 +14,7 @@ IT Support | Systems Troubleshooting | Infrastructure Learning
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=22F7E2&center=true&vCenter=true&width=600&lines=Infrastructure+Enthusiast;Windows+%26+Linux+Systems;PowerShell+Automation;Technical+Troubleshooting;Always+Learning+New+Things" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/jdecked/twemoji/main/assets/72x72/1f464.png" width="20"> About Me
+## 🧑‍💻About Me
 
 
 
@@ -37,7 +37,7 @@ IT Support | Systems Troubleshooting | Infrastructure Learning
 
 
 
-## <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="20"> What I Work With — Systems & Automation
+## ⚙️What I Work With — Systems & Automation
 
 
 
@@ -51,7 +51,7 @@ IT Support | Systems Troubleshooting | Infrastructure Learning
 
 
 
-## <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25">What I Do in Practice — Infrastructure & Support
+## 🛠️What I Do in Practice — Infrastructure & Support
 
 
 <p>
@@ -83,7 +83,7 @@ IT Support | Systems Troubleshooting | Infrastructure Learning
 <br>
 
 
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="25">Projects & Lab Work
+## 🚀Projects & Lab Work
 
 
 
@@ -183,7 +183,7 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 
 <br>
 
-## <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="25"> Let’s Connect
+## 🤝Let’s Connect
 
 
 
