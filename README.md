@@ -35,7 +35,7 @@ IT Support | Systems Troubleshooting | Infrastructure Learning
 
 
 
-## 🛠️What I Work With — Systems & Automation
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25">What I Work With — Systems & Automation
 
 
 
@@ -47,7 +47,7 @@ IT Support | Systems Troubleshooting | Infrastructure Learning
 
 
 
-## ⚙️What I Do in Practice — Infrastructure & Support
+## <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25">What I Do in Practice — Infrastructure & Support
 
 
 <p>
@@ -79,7 +79,7 @@ IT Support | Systems Troubleshooting | Infrastructure Learning
 <br>
 
 
-## 🧩Projects & Lab Work
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="25">Projects & Lab Work
 
 
 
@@ -179,7 +179,7 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 
 <br>
 
-## 🤝Let’s Connect
+## <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="25"> Let’s Connect
 
 
 
