@@ -1,6 +1,8 @@
 <!-- HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=230&section=header&text=Dhanush%20Achari&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Windows%20%7C%20Linux%20%7C%20PowerShell%20%7C%20IT%20Infrastructure&descAlignY=65"/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=github-dark&hide_border=true&area=true" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Dhanush Achari</h1>
 
