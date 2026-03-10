@@ -37,7 +37,8 @@ IT Support | Systems Troubleshooting | Infrastructure Learning
 
 
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/gear_2699-fe0f.gif" width="22"> What I Work With — Systems & Automation
+## <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="20"> What I Work With — Systems & Automation
+
 
 
 
