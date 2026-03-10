@@ -26,12 +26,13 @@ Infrastructure • Systems • Automation
 🛠️ I like documenting what I learn, troubleshooting issues methodically, and improving my ability to analyze systems when something unexpected happens.
 
 📚 Outside of structured learning, I spend time exploring developer communities, solving problems on coding platforms, and continuously expanding my technical toolkit.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=footer"/>
 
 <br>
 
 
 
-## 🛠️ What I Work With
+## 🛠️ Tech Stack
 
 
 
@@ -40,10 +41,11 @@ Infrastructure • Systems • Automation
 <img src="https://skillicons.dev/icons?i=windows,linux,powershell,bash,python,git,docker,vscode,github,azure,kubernetes,terraform,ansible"/>
 
 </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=footer"/>
 
 <br>
 
-## ⚙️ What I Do in Practice
+## ⚙️ Infrastructure & Support
 
 
 <p>
@@ -71,10 +73,12 @@ Infrastructure • Systems • Automation
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
 </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=footer"/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=footer"/>
 <br>
 
-<br><br>
+
 
 ## 🧪 Labs & Experiments
 
@@ -102,6 +106,8 @@ Testing different methods for **observing system health, logs, and performance m
 
 🔹 **Networking Practice Lab**  
 Exploring **DNS resolution, DHCP behavior, VPN connectivity, and network troubleshooting scenarios**.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=footer"/>
 
 <br>
 
