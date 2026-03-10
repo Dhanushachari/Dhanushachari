@@ -74,7 +74,6 @@ Infrastructure • Systems • Automation
 
 <br>
 
-<br><br>
 
 ## 🧩 Infrastructure Projects
 
@@ -91,7 +90,6 @@ Infrastructure • Systems • Automation
 
 <b>Active Directory Lab</b>
 
-<br>
 
 <sub>
 Simulating enterprise user management, password resets, account unlocks, and group policy behavior to understand real domain environments.
@@ -107,7 +105,7 @@ Simulating enterprise user management, password resets, account unlocks, and gro
 
 <b>Windows Troubleshooting</b>
 
-<br>
+
 
 <sub>
 Practicing system diagnostics including boot failures, service issues, high CPU usage, and disk performance troubleshooting.
@@ -123,7 +121,7 @@ Practicing system diagnostics including boot failures, service issues, high CPU 
 
 <b>Network Diagnostics</b>
 
-<br>
+
 
 <sub>
 Testing DNS resolution, DHCP behavior, VPN connectivity, and common LAN troubleshooting scenarios.
@@ -143,7 +141,7 @@ Testing DNS resolution, DHCP behavior, VPN connectivity, and common LAN troubles
 
 <b>PowerShell Automation</b>
 
-<br>
+
 
 <sub>
 Creating small automation scripts for system checks, log analysis, and repetitive administrative tasks.
@@ -159,7 +157,7 @@ Creating small automation scripts for system checks, log analysis, and repetitiv
 
 <b>Microsoft 365 Support</b>
 
-<br>
+
 
 <sub>
 Troubleshooting Outlook configuration, mailbox access issues, OneDrive sync problems, and SharePoint permissions.
@@ -175,7 +173,7 @@ Troubleshooting Outlook configuration, mailbox access issues, OneDrive sync prob
 
 <b>Remote Support Lab</b>
 
-<br>
+
 
 <sub>
 Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user system issues remotely.
