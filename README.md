@@ -1,9 +1,8 @@
 <!-- HEADER -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" height="120"/>
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" height="110"/>
 </p>
-
 <h1 align="center">Hi 👋, I'm Dhanush Achari</h1>
 
 <h3 align="center">
