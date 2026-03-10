@@ -43,24 +43,21 @@ Infrastructure • Systems • Automation
 </p>
 
 <br>
+<br><br>
 
 ## 🧰 Tools & Technologies
 
 <br>
 
-<p align="center">
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-<img src="https://skillicons.dev/icons?i=windows,linux,powershell,bash,python,git,docker,vscode,github,azure"/>
+### 💻 Systems & Automation
 
-</p>
+<img src="https://skillicons.dev/icons?i=windows,linux,powershell,bash,python,git,docker,vscode,github"/>
 
-<p align="center">
+<br>
 
-<img src="https://skillicons.dev/icons?i=networking"/>
-
-</p>
-
-<p align="center">
+### 🛠 IT Support & Infrastructure
 
 <img src="https://img.shields.io/badge/Active%20Directory-0A66C2?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Office%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
@@ -69,10 +66,6 @@ Infrastructure • Systems • Automation
 <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
 <img src="https://img.shields.io/badge/ServiceNow-00A859?style=for-the-badge&logo=servicenow&logoColor=white"/>
 <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-
-
-<p align="center">
-
 <img src="https://img.shields.io/badge/RDP-444444?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TeamViewer-0E8EE9?style=for-the-badge&logo=teamviewer&logoColor=white"/>
 <img src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge"/>
@@ -81,12 +74,9 @@ Infrastructure • Systems • Automation
 <img src="https://img.shields.io/badge/VPN-6A5ACD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Printer%20Support-555555?style=for-the-badge"/>
 
-</p> </p>
-
 <br>
 
 ---
-
 
 <!-- FOOTER -->
 
