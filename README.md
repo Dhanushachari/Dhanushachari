@@ -4,11 +4,11 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 </p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Dhanush Achari</h1>
-
-<h3 align="center">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Dhanush Achari <h3 align="center">
 IT Support | Systems Troubleshooting | Infrastructure Learning
-</h3>
+</h3></h1>
+
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=22F7E2&center=true&vCenter=true&width=600&lines=Infrastructure+Enthusiast;Windows+%26+Linux+Systems;PowerShell+Automation;Technical+Troubleshooting;Always+Learning+New+Things" />
