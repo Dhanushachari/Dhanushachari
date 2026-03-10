@@ -31,7 +31,7 @@ Infrastructure • Systems • Automation
 
 
 
-## 🛠️ System & Automation
+## 🛠️ What I Work With — Systems & Automation
 
 
 
@@ -43,7 +43,7 @@ Infrastructure • Systems • Automation
 
 
 
-## ⚙️ Infrastructure & Support
+## ⚙️ What I Do — Infrastructure & Support
 
 
 <p>
@@ -75,7 +75,7 @@ Infrastructure • Systems • Automation
 <br>
 
 
-## 🧩 Infrastructure Projects
+## 🧩 Projects & Lab Work
 
 
 
@@ -172,8 +172,6 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 
 </tr>
 </table>
-
-<br>
 
 <br>
 
