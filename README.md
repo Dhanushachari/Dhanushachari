@@ -27,7 +27,7 @@ Infrastructure • Systems • Automation
 
 📚 Outside of structured learning, I spend time exploring developer communities, solving problems on coding platforms, and continuously expanding my technical toolkit.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=footer"/>
+<br>
 
 
 
@@ -41,7 +41,7 @@ Infrastructure • Systems • Automation
 
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=footer"/>
+
 
 ## ⚙️ Infrastructure & Support
 
