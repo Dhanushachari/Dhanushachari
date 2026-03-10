@@ -46,6 +46,53 @@ Infrastructure • Systems • Automation
 
 ---
 
+<br><br>
+
+## 🧰 Tools & Technologies
+
+<br>
+
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### 💻 Operating Systems
+<p>
+<img src="https://skillicons.dev/icons?i=windows,linux" />
+</p>
+
+### ⚡ Scripting & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=powershell,bash,python" />
+</p>
+
+### 🛠 Infrastructure & Support Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,vscode" />
+</p>
+
+### 🧠 IT Support Technologies
+<p>
+
+<img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Office%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+<img src="https://img.shields.io/badge/ServiceNow-00A859?style=for-the-badge&logo=servicenow&logoColor=white"/>
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+</p>
+
+### 🌐 Networking Fundamentals
+<p>
+
+<img src="https://img.shields.io/badge/DNS-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DHCP-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VPN-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LAN%2FWAN-708090?style=for-the-badge"/>
+
+</p>
+
+<br><br>
+
+---
+
 
 
 
