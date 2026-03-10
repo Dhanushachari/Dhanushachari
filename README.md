@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=github-dark&hide_border=true&area=true" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&section=header&animation=fadeIn"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhanush Achari</h1>
