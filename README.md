@@ -44,19 +44,21 @@ Infrastructure • Systems • Automation
 
 <br>
 
-## 🧰 Tools & Technologies
+## ⚙️ Systems & Automation
 
 <br>
 
-### 💻 Systems & Automation
-
 <p>
 
-<img src="https://skillicons.dev/icons?i=windows,linux,powershell,bash,python,git,docker,vscode,github"/>
+<img src="https://skillicons.dev/icons?i=windows,linux,powershell,bash,python,git,docker,vscode,github,azure,kubernetes,terraform,ansible"/>
 
 </p>
 
-### 🛠 IT Support & Infrastructure
+<br>
+
+## 🛠 IT Support & Infrastructure
+
+<br>
 
 <p>
 
@@ -73,13 +75,23 @@ Infrastructure • Systems • Automation
 <img src="https://img.shields.io/badge/DNS-1E90FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DHCP-2E8B57?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/VPN-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Printer%20Support-555555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCCM-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Intune-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Citrix-452170?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
 </p>
 
 <br>
 
 ---
+---
+
+
 
 <!-- FOOTER -->
 
