@@ -32,7 +32,7 @@ Infrastructure • Systems • Automation
 
 ## 🌐 Let's Connect
 
-<br>
+
 
 <p align="center">
 <a href="mailto:dhanushachari2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
@@ -46,7 +46,7 @@ Infrastructure • Systems • Automation
 
 ## ⚙️ Systems & Automation
 
-<br>
+
 
 <p>
 
@@ -58,7 +58,6 @@ Infrastructure • Systems • Automation
 
 ## 🛠 IT Support & Infrastructure
 
-<br>
 
 <p>
 
