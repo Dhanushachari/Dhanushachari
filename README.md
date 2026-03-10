@@ -186,63 +186,24 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 </table>
 
 <br>
+
 ## 🧠 Troubleshooting Focus
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+<p align="center">
 
-🪟 **Windows Login & Performance**
+<img src="https://img.shields.io/badge/Windows_Login_Issues-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
-Resolving login failures, slow system behavior, startup issues, and OS-level performance problems.
+<img src="https://img.shields.io/badge/System_Performance_Troubleshooting-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
-</td>
+<img src="https://img.shields.io/badge/Active_Directory_User_Management-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
 
-<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Microsoft_365_&_Outlook_Support-D83B01?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 
-🗂️ **Active Directory Management**
+<img src="https://img.shields.io/badge/Network_Issues_(DNS_DHCP_VPN)-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
 
-Handling password resets, account unlocks, user access issues, and basic domain user administration.
+<img src="https://img.shields.io/badge/Printer_&_Peripheral_Support-444444?style=for-the-badge&logo=hp&logoColor=white" />
 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-📧 **Microsoft 365 & Outlook Support**
-
-Troubleshooting email configuration, sync issues, Outlook profiles, and cloud mailbox access.
-
-</td>
-
-<td align="center" width="50%">
-
-🌐 **Network Connectivity**
-
-Diagnosing DNS, DHCP, VPN, and LAN/WAN connectivity issues affecting system access.
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-🖨️ **Printers & Peripherals**
-
-Resolving printer drivers, connectivity problems, and peripheral configuration issues.
-
-</td>
-
-<td align="center" width="50%">
-
-🧰 **Remote Troubleshooting**
-
-Using RDP, TeamViewer, and AnyDesk to diagnose and resolve issues on user systems.
-
-</td>
-</tr>
-</table>
+</p>
 
 <br>
 
