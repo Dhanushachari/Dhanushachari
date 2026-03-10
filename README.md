@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F260,50:0575E6,100:FF00CC&height=6&section=header&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=7&section=header&reversal=false"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhanush Achari</h1>
