@@ -14,7 +14,8 @@ IT Support | Systems Troubleshooting | Infrastructure Learning
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=22F7E2&center=true&vCenter=true&width=600&lines=Infrastructure+Enthusiast;Windows+%26+Linux+Systems;PowerShell+Automation;Technical+Troubleshooting;Always+Learning+New+Things" />
 </p>
 
-##  About Me
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist_1f468-200d-1f4bb.gif" width="22"> About Me
+
 
 
 <img align="right" width="300" src="https://cdnl.iconscout.com/lottie/premium/thumb/software-developer-working-at-office-animation-gif-download-7495614.gif">
