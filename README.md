@@ -4,9 +4,10 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 </p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Dhanush Achari <h3> IT Support | Systems Troubleshooting | Infrastructure Learning<h3 align="center">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Dhanush Achari </h1>
+<h3> IT Support | Systems Troubleshooting | Infrastructure Learning<h3 align="center">
 
-</h3></h1>
+</h3>
 
 
 
