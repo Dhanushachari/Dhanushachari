@@ -86,7 +86,37 @@ Infrastructure • Systems • Automation
 
 <br>
 
----
+<br><br>
+
+## 🧪 Labs & Experiments
+
+<br>
+
+🔹 **Active Directory Lab**  
+Simulating a small enterprise environment with **user management, group policies, authentication behavior, and domain services**.
+
+<br>
+
+🔹 **PowerShell Automation Toolkit**  
+Building small scripts to **automate routine system checks, log analysis, and administrative tasks**.
+
+<br>
+
+🔹 **Linux Troubleshooting Notes**  
+A growing knowledge base documenting **common system issues, diagnostic commands, and troubleshooting approaches**.
+
+<br>
+
+🔹 **System Monitoring Experiments**  
+Testing different methods for **observing system health, logs, and performance metrics**.
+
+<br>
+
+🔹 **Networking Practice Lab**  
+Exploring **DNS resolution, DHCP behavior, VPN connectivity, and network troubleshooting scenarios**.
+
+<br>
+
 ---
 
 
