@@ -73,37 +73,85 @@ Infrastructure • Systems • Automation
 </p>
 
 <br>
+<br><br>
 
-
-
-## 🧪 Labs & Experiments
-
-<br>
-
-🔹 **Active Directory Lab**  
-Simulating a small enterprise environment with **user management, group policies, authentication behavior, and domain services**.
+## 🧰 Support Projects
 
 <br>
 
-🔹 **PowerShell Automation Toolkit**  
-Building small scripts to **automate routine system checks, log analysis, and administrative tasks**.
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="90"/>
+
+### Active Directory Lab
+
+Simulating enterprise **user management, account unlocks, password resets, and group policy behavior** to understand real domain environments.
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="90"/>
+
+### Windows Troubleshooting
+
+Practicing **system diagnostics, service failures, boot issues, high CPU usage, and disk performance troubleshooting**.
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="90"/>
+
+### Network Diagnostics
+
+Testing **DNS resolution, DHCP behavior, VPN connectivity, and common LAN troubleshooting scenarios**.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" width="90"/>
+
+### PowerShell Scripts
+
+Creating small **automation scripts for system checks, log analysis, and repetitive administrative tasks**.
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="90"/>
+
+### Microsoft 365 Support
+
+Working with **Outlook configuration, OneDrive sync issues, SharePoint access problems, and mailbox troubleshooting**.
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" width="90"/>
+
+### Remote Support Lab
+
+Practicing **RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve user system issues remotely**.
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-🔹 **Linux Troubleshooting Notes**  
-A growing knowledge base documenting **common system issues, diagnostic commands, and troubleshooting approaches**.
-
-<br>
-
-🔹 **System Monitoring Experiments**  
-Testing different methods for **observing system health, logs, and performance metrics**.
-
-<br>
-
-🔹 **Networking Practice Lab**  
-Exploring **DNS resolution, DHCP behavior, VPN connectivity, and network troubleshooting scenarios**.
-
-
+---
 
 <br>
 
