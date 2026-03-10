@@ -18,7 +18,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=22F7E2&center=true&vCenter=true&width=600&lines=Infrastructure+Enthusiast;Windows+%26+Linux+Systems;PowerShell+Automation;Technical+Troubleshooting;Always+Learning+New+Things" />
 </p>
 
-## 🧑‍💻About Me
+## 🧑‍💻 About Me
 
 
 
@@ -41,7 +41,7 @@
 
 
 
-## ⚙️What I Work With — Systems & Automation
+## ⚙️ What I Work With — Systems & Automation
 
 
 
@@ -55,7 +55,7 @@
 
 
 
-## 🛠️What I Do in Practice — Infrastructure & Support
+## 🛠️ What I Do in Practice — Infrastructure & Support
 
 
 <p>
@@ -87,7 +87,7 @@
 <br>
 
 
-## 🚀Projects & Lab Work
+## 🚀 Projects & Lab Work
 
 
 
