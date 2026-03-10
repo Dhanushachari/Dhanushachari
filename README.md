@@ -1,8 +1,6 @@
 <!-- HEADER -->
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284103-0a7c6c34-6b9e-4c0c-bb77-93e6d3c0f3e7.gif" width="100%">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=230&section=header&text=Dhanush%20Achari&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Windows%20%7C%20Linux%20%7C%20PowerShell%20%7C%20IT%20Infrastructure&descAlignY=65"/>
 
 <h1 align="center">Hi 👋, I'm Dhanush Achari</h1>
 
