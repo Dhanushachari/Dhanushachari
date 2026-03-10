@@ -187,6 +187,26 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 
 <br>
 
+## 🧠 Troubleshooting Focus
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Windows_Login_Issues-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+<img src="https://img.shields.io/badge/System_Performance_Troubleshooting-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Active_Directory_User_Management-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Microsoft_365_&_Outlook_Support-D83B01?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Network_Issues_(DNS_DHCP_VPN)-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Printer_&_Peripheral_Support-444444?style=for-the-badge&logo=hp&logoColor=white" />
+
+</p>
+
+<br>
+
 ## 🤝Let’s Connect
 
 
