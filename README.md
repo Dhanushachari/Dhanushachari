@@ -1,9 +1,11 @@
 <!-- HEADER -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Dhanush%20Achari&fontSize=42&fontAlignY=40&desc=IT%20Support%20%7C%20Systems%20Troubleshooting%20%7C%20Infrastructure%20Learning&descAlignY=60&animation=fadeIn"/>
+
 <h1 align="center">Hi 👋, I'm Dhanush Achari</h1>
 
 <h3 align="center">
-Infrastructure • Systems • Automation
+IT Support | Systems Troubleshooting | Infrastructure Learning
 </h3>
 
 <p align="center">
