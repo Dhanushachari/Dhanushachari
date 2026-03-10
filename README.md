@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/xT0GqeSlGSRQutR7lm/giphy.gif" width="100%" height="120"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F260,50:0575E6,100:FF00CC&height=6&section=header&animation=twinkling"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhanush Achari</h1>
