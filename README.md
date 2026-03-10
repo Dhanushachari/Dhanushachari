@@ -70,7 +70,6 @@ Infrastructure • Systems • Automation
 <img src="https://img.shields.io/badge/ServiceNow-00A859?style=for-the-badge&logo=servicenow&logoColor=white"/>
 <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 
-</p>
 
 <p align="center">
 
@@ -82,7 +81,7 @@ Infrastructure • Systems • Automation
 <img src="https://img.shields.io/badge/VPN-6A5ACD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Printer%20Support-555555?style=for-the-badge"/>
 
-</p>
+</p> </p>
 
 <br>
 
