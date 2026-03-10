@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/divider.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/terminal.gif" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhanush Achari</h1>
