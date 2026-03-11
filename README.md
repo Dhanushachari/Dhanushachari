@@ -224,14 +224,26 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 <img src="https://github-readme-stats.vercel.app/api?username=dhanushachari&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+## ⚡ System Mindset
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=dhanushachari&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450">
 </p>
+
+<p align="center">
+Understanding systems, breaking them, fixing them, and making them better.
+</p>
+
+
+
+
+<br>
+
 
 
 ## 🤝Let’s Connect
@@ -250,23 +262,7 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 
 
 
-## ⚡ System Mindset
 
-<p align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450">
-</p>
-
-<p align="center">
-Understanding systems, breaking them, fixing them, and making them better.
-</p>
-
----
-
-<h2 align="center">🌍 Global Contribution Map</h2>
-
-
-
-<br>
 
 
 
@@ -275,9 +271,6 @@ Understanding systems, breaking them, fixing them, and making them better.
 
 <!-- FOOTER -->
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=dhanushachari&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center">
 ⭐ Curious about systems, automation, and solving technical problems.
