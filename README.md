@@ -213,13 +213,7 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 
 <br>
 
-## 📊 Activity Analytics
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushachari&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
-<h2 align="center">🛰 Live Network Activity Map</h2>
+## 📊 Network Activity Map
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushachari&theme=react-dark&hide_border=true&area=true&line=00E7FF&point=FFFFFF"/>
