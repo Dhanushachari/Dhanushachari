@@ -244,6 +244,12 @@ Troubleshooting Map
 <img src="https://komarev.com/ghpvc/?username=dhanushachari&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+### 📈 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=dhanushachari&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
 ---
 
 <p align="center">
