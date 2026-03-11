@@ -264,6 +264,17 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 <img src="https://media.giphy.com/media/3o7TKsQ8UQ7p7bX6XG/giphy.gif" width="800"/>
 </p>
 
+<h2 align="center">🛰 Global Developer Activity</h2>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Tracking+Global+Commit+Activity...;Rendering+Contribution+Globe...;Developer+Activity+Online"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/main/assets/github-globe.gif" width="500">
+</p>
+
+
 ## ⚡ System Mindset
 
 <p align="center">
