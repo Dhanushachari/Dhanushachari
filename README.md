@@ -225,6 +225,21 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 </p>
 
 
+## 🤝Let’s Connect
+
+
+
+<p align="center">
+<a href="mailto:dhanushachari2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://linkedin.com/in/dhanush-nani-539020258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://leetcode.com/dhanushachari"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>&nbsp;
+<a href="https://stackoverflow.com/users/YOUR_ID"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>&nbsp;
+<a href="https://www.naukri.com/YOUR_ID"><img src="https://img.shields.io/badge/Naukri-0057FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+<br>
+
+
 
 ## ⚡ System Mindset
 
@@ -251,19 +266,6 @@ Understanding systems, breaking them, fixing them, and making them better.
 
 <br>
 
-## 🤝Let’s Connect
-
-
-
-<p align="center">
-<a href="mailto:dhanushachari2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://linkedin.com/in/dhanush-nani-539020258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://leetcode.com/dhanushachari"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>&nbsp;
-<a href="https://stackoverflow.com/users/YOUR_ID"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>&nbsp;
-<a href="https://www.naukri.com/YOUR_ID"><img src="https://img.shields.io/badge/Naukri-0057FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-</p>
-
-<br>
 
 
 
