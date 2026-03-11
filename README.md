@@ -31,7 +31,7 @@
 
 
 
-<img align="right" width="300" src="https://cdnl.iconscout.com/lottie/premium/thumb/software-developer-working-at-office-animation-gif-download-7495614.gif">
+<img align="right" width="300" src="WhatsApp%20Image%202026-03-11%20at%2010.36.26%20PM.jpeg">
 
 🔍 I spend a lot of time exploring **how systems actually behave behind the scenes.**
 
