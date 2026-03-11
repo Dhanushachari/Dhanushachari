@@ -229,6 +229,23 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+---
+
+## 🖥️ System Console
+
+```bash
+$ scanning repository activity...
+
+[OK] commits detected
+[OK] troubleshooting labs updated
+[OK] infrastructure knowledge expanding
+[OK] automation experiments running
+[INFO] engineer mindset: ACTIVE
+[STATUS] ready for next system failure
+```
+
+---
+
 ## 🧪 Lab Experiments — Things I Break on Purpose
 
 <p align="center">
