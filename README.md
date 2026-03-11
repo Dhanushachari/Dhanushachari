@@ -231,18 +231,27 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 
 ---
 
-## 🖥️ System Console
+---
 
-```bash
-$ scanning repository activity...
+## ⚡ Engineer Boot Sequence
 
-[OK] commits detected
-[OK] troubleshooting labs updated
-[OK] infrastructure knowledge expanding
-[OK] automation experiments running
-[INFO] engineer mindset: ACTIVE
-[STATUS] ready for next system failure
+<p align="center">
+
 ```
+┌─────────────────────────────────────────────┐
+│           SYSTEM INITIALIZATION             │
+├─────────────────────────────────────────────┤
+│ [BOOT] Curiosity Engine ............ OK     │
+│ [LOAD] Infrastructure Knowledge .... OK     │
+│ [LOAD] Troubleshooting Mindset ..... OK     │
+│ [INIT] Automation Experiments ...... OK     │
+│ [CHECK] System Diagnostics ......... OK     │
+│                                             │
+│ STATUS : READY FOR LAB EXPERIMENTS ⚙️       │
+└─────────────────────────────────────────────┘
+```
+
+</p>
 
 ---
 
