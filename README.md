@@ -189,13 +189,17 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 
 ## 🧠 Troubleshooting Skill Tree
 
-<div align="center">
+<table>
+<tr>
+<td width="220">
 
-<div style="display:flex; align-items:center; justify-content:center; gap:60px;">
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="180"/>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="160"/>
+</td>
 
-<pre align="left">
+<td>
+
+<pre>
 
 Troubleshooting Skill Tree
 
@@ -219,9 +223,9 @@ Device Layer
 
 </pre>
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
