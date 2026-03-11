@@ -219,6 +219,15 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 <img src="https://github-readme-stats.vercel.app/api?username=dhanushachari&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
+<br>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=dhanushachari&theme=tokyonight&hide_border=true"/>
+</p>
+
+
 ## ⚡ System Mindset
 
 <p align="center">
