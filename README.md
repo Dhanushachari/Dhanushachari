@@ -219,18 +219,10 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushachari&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
-<h2 align="center">🤖 System Diagnostic Console</h2>
+<h2 align="center">🛰 Live Network Activity Map</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=%24+initializing+developer+scan...;%24+loading+github+modules...;%24+fetching+commit+history...;%24+running+system+diagnostics...;%24+displaying+developer+stats"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dhanushachari&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dhanushachari&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushachari&theme=react-dark&hide_border=true&area=true&line=00E7FF&point=FFFFFF"/>
 </p>
 ## 🔥 Contribution Streak
 
