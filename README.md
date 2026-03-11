@@ -213,24 +213,17 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 
 <br>
 
-## 🎮 Engineer Level System
+## 📊 Activity Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dhanushachari&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=00e5ff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushachari&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
+
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushachari&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/dhanushachari/dhanushachari/output/snake.svg"/>
 </p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=dhanushachari&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dhanushachari&theme=tokyonight&no-frame=true&row=1"/>
-</p>
-
 <br>
 
 ## 🔥 Contribution Streak
