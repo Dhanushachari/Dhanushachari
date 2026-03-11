@@ -31,8 +31,11 @@
 
 
 
-## 🖱️ Welcome To My System <img align="right" width="270" src="dhanushgif (1).png"> <div>
-powershell
+## 🖱️ Welcome To My System
+
+<img align="right" width="270" src="dhanushgif (1).png">
+
+```powershell
 
 C:\Users\Dhanush> system info
 
@@ -59,6 +62,7 @@ If users say "nothing changed"
 C:\Users\Dhanush> system status
 
 All services running... mostly.
+```
 
 
 <br clear="right">
