@@ -33,10 +33,6 @@
 <div>
 
 ```powershell
-          ____________________________
-         |▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓|
-         | Windows Terminal - Dhanush |
-         |____________________________|
 
 C:\Users\Dhanush> system info
 
@@ -50,16 +46,7 @@ Skills         : Troubleshooting • Diagnostics • Root Cause Analysis
 Tools          : PowerShell • RDP • AD • DNS • VPN
 Logs Read      : Too many to count
 Bugs Found     : More than expected
-```
 
-```powershell
-C:\Users\Dhanush> lab --run
-
-• Build small infrastructure labs
-• Break configurations intentionally
-• Investigate failure patterns
-• Restore systems before users panic
-• Document fixes so future-me remembers
 
 C:\Users\Dhanush> mindset --show
 
