@@ -31,9 +31,10 @@
 
 ## 🖱️ Welcome To My System
 
-<img src="dhanushgif (1).png" width="270" height="420" style="float:right; display:block;"/>
+<img align="right" width="350" src="dhanushgif (1).png">
 
 ```powershell
+
 C:\Users\Dhanush> system info
 
 User           : Dhanush Achari
@@ -61,7 +62,9 @@ C:\Users\Dhanush> system status
 All services running... mostly.
 ```
 
+
 <br clear="right">
+
 
 
 
