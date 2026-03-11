@@ -264,14 +264,19 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 <img src="https://media.giphy.com/media/3o7TKsQ8UQ7p7bX6XG/giphy.gif" width="800"/>
 </p>
 
-<h2 align="center">🛰 Global Developer Activity</h2>
+<h1 align="center">🖥 Developer System Dashboard</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Tracking+Global+Commit+Activity...;Rendering+Contribution+Globe...;Developer+Activity+Online"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=Booting+Developer+Environment...;Loading+System+Modules...;Initializing+Diagnostics...;System+Ready"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/main/assets/github-globe.gif" width="500">
+<img src="https://github-readme-stats.vercel.app/api?username=dhanushachari&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushachari&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=700&color=00FF00&center=true&vCenter=true&width=900&lines=%24+Scanning+repositories...;%24+Analyzing+commit+patterns...;%24+Running+diagnostics...;%24+System+status:+Operational"/>
 </p>
 
 
