@@ -189,10 +189,10 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 
 ## 🧠 Troubleshooting Focus
 
-<img style="margin-right:500px;" align="left" width="37%"  src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
+<img align="left" width="37%"  src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
 
 <pre>
-
+<p style="font-size:14px;">
 System Layer
  ├─ Windows Login Diagnostics
  ├─ System Performance Analysis
@@ -208,7 +208,7 @@ Application Layer
  ├─ Microsoft 365 Access Issues
  └─ OneDrive Sync Troubleshooting
  └─ Printer & Peripheral Support
-  
+  </p>
 </pre>
 
 <br>
