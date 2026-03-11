@@ -189,7 +189,7 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 
 ## 🧠 Troubleshooting Focus
 
-<img align="left" width="300"  src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
+<img align="left" width="33%"  src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
 
 <pre>
 
@@ -207,9 +207,8 @@ Application Layer
  ├─ Outlook Configuration
  ├─ Microsoft 365 Access Issues
  └─ OneDrive Sync Troubleshooting
-
-Device Layer
  └─ Printer & Peripheral Support
+  
 </pre>
 
 <br>
