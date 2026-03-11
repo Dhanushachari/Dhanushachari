@@ -28,7 +28,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="200" src="dhanushgif (1).png">
+<img align="right" width="280" src="dhanushgif (1).png">
 
 🔍 I spend a lot of time exploring **how systems actually behave behind the scenes.**
 
@@ -40,7 +40,6 @@
 
 🛠️ I like documenting what I learn, troubleshooting issues methodically, and improving my ability to analyze systems when something unexpected happens.
 
-📚 Outside of structured learning, I spend time exploring developer communities, solving problems on coding platforms, and continuously expanding my technical toolkit.
 
 <br clear="right">
 
