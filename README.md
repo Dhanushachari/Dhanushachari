@@ -31,10 +31,11 @@
 
 ## 🖱️ Welcome To My System
 
-<div style="display: flex; align-items: center; gap: 20px;">
+
+<div style="display: flex; align-items: center; justify-content: flex-start; gap: 20px;">
 
   <!-- Left: Code block -->
-  <pre style="flex: 1; background-color: #1e1e1e; color: #d4d4d4; padding: 15px; border-radius: 8px; overflow-x: auto;">
+  <pre style="margin: 0; padding: 15px; background-color: #1e1e1e; color: #d4d4d4; border-radius: 8px; overflow-x: auto; flex: 1;">
 C:\Users\Dhanush> system info
 
 User           : Dhanush Achari
@@ -64,11 +65,10 @@ All services running... mostly.
 
   <!-- Right: Sticker -->
   <div style="flex: 0 0 auto;">
-    <img src="dhanushgif (1).png" width="270"/>
+    <img src="dhanushgif (1).png" width="270" style="display: block;"/>
   </div>
 
 </div>
-
 <br clear="right">
 
 ## ⚙️ What I Work With — Systems & Automation
