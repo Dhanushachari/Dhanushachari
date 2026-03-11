@@ -189,7 +189,7 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 
 ## 🧠 Troubleshooting Focus
 
-<img style="padding-right:50px;" align="left" width="38%"  src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
+<img style="margin-right:500px;" align="left" width="37%"  src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
 
 <pre>
 
