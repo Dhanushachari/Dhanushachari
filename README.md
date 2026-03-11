@@ -229,9 +229,7 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
-
----
+<br>
 
 ## ⚡ Engineer Boot Sequence
 
@@ -253,7 +251,7 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 
 </p>
 
----
+<br>
 
 ## 🧪 Lab Experiments — Things I Break on Purpose
 
