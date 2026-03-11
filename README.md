@@ -28,13 +28,12 @@
 <a href="https://www.naukri.com/YOUR_ID"><img src="https://img.shields.io/badge/Naukri-0057FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 <br>
-## 🖱️ Welcome To My System
 
-<img align="right" width="270" src="dhanushgif (1).png" style="margin-top: 50px; margin-bottom: 50px;">
 
-<div>
 
-```powershell
+## 🖱️ Welcome To My System <img align="right" width="270" src="dhanushgif (1).png"> <div>
+powershell
+
 C:\Users\Dhanush> system info
 
 User           : Dhanush Achari
@@ -60,7 +59,7 @@ If users say "nothing changed"
 C:\Users\Dhanush> system status
 
 All services running... mostly.
-```
+
 
 <br clear="right">
 
