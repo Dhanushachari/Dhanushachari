@@ -18,6 +18,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=22F7E2&center=true&vCenter=true&width=600&lines=Infrastructure+Enthusiast;Windows+%26+Linux+Systems;PowerShell+Automation;Technical+Troubleshooting;Always+Learning+New+Things" />
 </p>
 
+
+
 <p align="center">
 <a href="mailto:dhanushachari2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/dhanush-nani-539020258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
@@ -25,15 +27,14 @@
 <a href="https://stackoverflow.com/users/YOUR_ID"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>&nbsp;
 <a href="https://www.naukri.com/YOUR_ID"><img src="https://img.shields.io/badge/Naukri-0057FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
+<br>
 
 ## 🖱️ Welcome To My System
 
-<img align="right" width="270" src="dhanushgif (1).png">
+<div style="display: flex; align-items: center; gap: 20px;">
 
-<div>
-
-```powershell
-
+  <!-- Left: Code block -->
+  <pre style="flex: 1; background-color: #1e1e1e; color: #d4d4d4; padding: 15px; border-radius: 8px; overflow-x: auto;">
 C:\Users\Dhanush> system info
 
 User           : Dhanush Achari
@@ -59,9 +60,14 @@ If users say "nothing changed"
 C:\Users\Dhanush> system status
 
 All services running... mostly.
-```
+  </pre>
 
-<br clear="right">
+  <!-- Right: Sticker -->
+  <div style="flex: 0 0 auto;">
+    <img src="dhanushgif (1).png" width="270"/>
+  </div>
+
+</div>
 
 ## ⚙️ What I Work With — Systems & Automation
 
