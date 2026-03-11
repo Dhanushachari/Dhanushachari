@@ -189,19 +189,9 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 
 ## 🧠 Troubleshooting Skill Tree
 
-<table>
-<tr>
-<td width="220">
+<img align="left" width="120" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="180"/>
-
-</td>
-
-<td>
-
-<pre>
-
-Troubleshooting Skill Tree
+$ load_troubleshooting_modules
 
 System Layer
  ├─ Windows Login Diagnostics
@@ -220,12 +210,6 @@ Application Layer
 
 Device Layer
  └─ Printer & Peripheral Support
-
-</pre>
-
-</td>
-</tr>
-</table>
 
 <br>
 
