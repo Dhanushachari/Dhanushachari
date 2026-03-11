@@ -31,7 +31,7 @@
 
 
 
-<img align="right" width="300" src="dhanushgif.png">
+<img align="right" width="500" src="dhanushgif.png">
 
 🔍 I spend a lot of time exploring **how systems actually behave behind the scenes.**
 
