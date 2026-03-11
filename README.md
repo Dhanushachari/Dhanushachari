@@ -212,33 +212,26 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 </pre>
 
 <br>
-## 🚀 Live System Monitor
 
-```text
-╔══════════════════════════════════════════════╗
-║            INFRASTRUCTURE MONITOR            ║
-╠══════════════════════════════════════════════╣
+## 🎮 Engineer Level System
 
-System Status        : 🟢 ONLINE
-Troubleshooting Mode : 🟢 ACTIVE
-Automation Learning  : 🟡 IN PROGRESS
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dhanushachari&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=00e5ff"/>
+</p>
 
-CPU Diagnostics      : █████████░░ 85%
-Memory Analysis      : ███████░░░░ 70%
-Network Monitoring   : ████████░░░ 80%
-Log Investigation    : ███████░░░░ 65%
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushachari&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-Active Modules
-──────────────
-✔ Windows Systems
-✔ Active Directory
-✔ Microsoft 365
-✔ Network Diagnostics
-✔ PowerShell Automation
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=dhanushachari&theme=tokyonight&hide_border=true"/>
+</p>
 
-Last Update          : Continuous Learning Mode
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dhanushachari&theme=tokyonight&no-frame=true&row=1"/>
+</p>
 
-╚══════════════════════════════════════════════╝
+<br>
 
 ## 🔥 Contribution Streak
 
