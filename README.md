@@ -64,13 +64,7 @@ All services running... mostly.
 
 <br clear="right">
 
-  <!-- Right: Sticker -->
-  <div style="flex: 0 0 auto;">
-    <img src="dhanushgif (1).png" width="270" style="display: block;"/>
-  </div>
 
-</div>
-<br clear="right">
 
 ## ⚙️ What I Work With — Systems & Automation
 
