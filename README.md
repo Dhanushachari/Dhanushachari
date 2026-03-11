@@ -30,7 +30,6 @@
 
 <img align="right" width="270" src="dhanushgif (1).png">
 
-<img align="right" width="240" src="dhanushgif.png">
 
 ```
 SYSTEM PROFILE
@@ -40,12 +39,6 @@ Role            : IT Support / Infrastructure Troubleshooting
 Focus           : Windows Systems • Networking • Automation
 Learning Mode   : Active
 
-LAB APPROACH
-────────────
-• Build small infrastructure labs
-• Break configurations intentionally
-• Investigate failure patterns
-• Restore system stability
 
 ENGINEER MINDSET
 ────────────────
