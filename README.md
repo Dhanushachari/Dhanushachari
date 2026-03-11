@@ -28,14 +28,13 @@
 <a href="https://www.naukri.com/YOUR_ID"><img src="https://img.shields.io/badge/Naukri-0057FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 <br>
-
 ## 🖱️ Welcome To My System
 
+<img align="right" width="270" src="dhanushgif (1).png" style="margin-top: 50px; margin-bottom: 50px;">
 
-<div style="display: flex; align-items: center; justify-content: flex-start; gap: 20px;">
+<div>
 
-  <!-- Left: Code block -->
-  <pre style="margin: 0; padding: 15px; background-color: #1e1e1e; color: #d4d4d4; border-radius: 8px; overflow-x: auto; flex: 1;">
+```powershell
 C:\Users\Dhanush> system info
 
 User           : Dhanush Achari
@@ -61,7 +60,9 @@ If users say "nothing changed"
 C:\Users\Dhanush> system status
 
 All services running... mostly.
-  </pre>
+```
+
+<br clear="right">
 
   <!-- Right: Sticker -->
   <div style="flex: 0 0 auto;">
