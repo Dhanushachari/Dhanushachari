@@ -29,14 +29,12 @@
 </p>
 <br>
 
-
-
 ## 🖱️ Welcome To My System
 
-<img align="right" width="270" src="dhanushgif (1).png">
+<div style="display: flex; align-items: center; gap: 20px;">
 
-```powershell
-
+  <!-- Left: Code block -->
+  <pre style="margin: 0; padding: 15px; background-color: #1e1e1e; color: #d4d4d4; border-radius: 8px; overflow-x: auto; flex: 1;">
 C:\Users\Dhanush> system info
 
 User           : Dhanush Achari
@@ -62,10 +60,17 @@ If users say "nothing changed"
 C:\Users\Dhanush> system status
 
 All services running... mostly.
-```
+  </pre>
+
+  <!-- Right: Sticker -->
+  <img src="dhanushgif (1).png" width="270" style="display: block;"/>
+
+</div>
 
 
-<br clear="right">
+
+
+
 
 
 
