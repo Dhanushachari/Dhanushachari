@@ -221,6 +221,24 @@ Troubleshooting Map
 
 <br>
 
+## ⚡ System Mindset
+
+<p align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450">
+</p>
+
+<p align="center">
+Understanding systems, breaking them, fixing them, and making them better.
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dhanushachari&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<br>
+
 ## 🤝Let’s Connect
 
 
@@ -238,19 +256,12 @@ Troubleshooting Map
 
 
 
+
 <!-- FOOTER -->
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=dhanushachari&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
-### 📈 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=dhanushachari&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
-
----
 
 <p align="center">
 ⭐ Curious about systems, automation, and solving technical problems.
