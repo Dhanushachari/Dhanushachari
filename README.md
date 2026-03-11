@@ -236,10 +236,8 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 </p>
 
 <p align="center">
-Understanding systems by intentionally breaking them, diagnosing the issue, and restoring stability.
+Understanding systems by breaking them, diagnosing the issue, and fixing them.
 </p>
-
----
 
 > 🔧 Break DNS resolution to understand failures  
 > ⚙️ Disable critical services to observe system impact  
