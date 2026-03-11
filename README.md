@@ -225,7 +225,13 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=dhanushachari&theme=tokyonight&hide_border=true"/>
 </p>
+<br>
 
+## 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/dhanushachari/dhanushachari/output/snake.svg"/>
+</p>
 
 ## ⚡ System Mindset
 
