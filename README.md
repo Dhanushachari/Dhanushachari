@@ -3,6 +3,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 </p>
+<br>
 
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Dhanush Achari
@@ -31,7 +32,7 @@
 
 ## 🖱️ Welcome To My System
 
-<img align="right" width="370" src="dhanushgif (1).png">
+<img align="right" width="330" src="dhanushgif (1).png">
 
 ```powershell
 
@@ -53,12 +54,10 @@ C:\Users\Dhanush> mindset --show
 If it works      → understand it
 If it breaks     → investigate it
 If it's weird    → reproduce it
-If users say "nothing changed"
-                 → start digging
+If users say "nothing changed" → start digging
+                 
+C:\Users\Dhanush> system status  →  All services running... mostly.
 
-C:\Users\Dhanush> system status
-
-All services running... mostly.
 ```
 
 
