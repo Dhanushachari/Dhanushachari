@@ -218,23 +218,12 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushachari&theme=react-dark&hide_border=true&area=true&line=00E7FF&point=FFFFFF"/>
 </p>
-## 🔥 Contribution Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=dhanushachari&theme=tokyonight&hide_border=true"/>
-</p>
-<br>
 
 <h2 align="center">🌍 Global Contribution Map</h2>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<h2 align="center">🌎 Developer Activity Globe</h2>
-
-<p align="center">
-<img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/main/assets/github-globe.gif" width="500">
 </p>
 
 
