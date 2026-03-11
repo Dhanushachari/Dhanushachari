@@ -40,7 +40,6 @@
 
 🛠️ I like documenting what I learn, troubleshooting issues methodically, and improving my ability to analyze systems when something unexpected happens.
 
-📚 Outside of structured learning, I spend time exploring developer communities, solving problems on coding platforms, and continuously expanding my technical toolkit.
 
 <br clear="right">
 
