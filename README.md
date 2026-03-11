@@ -32,34 +32,33 @@
 
 <div>
 
-<p>
-<img src="https://img.shields.io/badge/●-red"/>
-<img src="https://img.shields.io/badge/●-yellow"/>
-<img src="https://img.shields.io/badge/●-green"/>
-</p>
-
 ```bash
-SYSTEM PROFILE
-──────────────
-Engineer      : Dhanush Achari
-Role          : IT Support / System Troubleshooter
-Focus         : Windows • Networking • Automation
-Status        : Learning Mode — Always ON
+$ dhanush --profile
 
-LAB APPROACH
-────────────
-• Build labs
-• Break things (intentionally)
-• Read logs like detective stories
-• Fix systems before users panic
+Loading engineer configuration...
 
-ENGINEER MINDSET
-────────────────
-If it works → understand it
-If it breaks → investigate it
-If it's weird → reproduce it
-If users say "nothing changed" → start digging
+Name        : Dhanush Achari
+Role        : IT Support / Infrastructure Troubleshooter
+Focus       : Windows Systems • Networking • Automation
+Status      : Curiosity Mode — Always Enabled
+
+$ dhanush --lab
+
+• Build small infrastructure labs
+• Break configurations intentionally
+• Analyze system behavior
+• Restore stability
+
+$ dhanush --mindset
+
+If it works     → understand it
+If it breaks    → investigate it
+If it's weird   → reproduce it
+If users say "nothing changed"
+                → start digging
 ```
+
+<br clear="right">
 
 </div>
 
