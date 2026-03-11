@@ -231,20 +231,31 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 </p>
 <br>
 
-<h2 align="center">🧠 Developer Network Intelligence</h2>
+<h2 align="center">🧩 Entering the Matrix</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Initializing+Network+Scanner...;Capturing+Commit+Packets...;Rendering+Developer+Activity+Map"/>
+<img src="https://media.giphy.com/media/3o7TKsQ8UQ7p7bX6XG/giphy.gif" width="800"/>
+</p>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushachari&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhanushachari&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ## 🐍 Contribution Graph
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/dhanushachari/dhanushachari/output/snake.svg"/>
+</p>
+
+<h2 align="center">⚡ System Access</h2>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Accessing+Developer+Matrix...;Decrypting+GitHub+Activity...;Loading+System+Diagnostics...;Welcome+to+Dhanush+Achari's+Profile"/>
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/3o7TKsQ8UQ7p7bX6XG/giphy.gif" width="800"/>
 </p>
 
 ## ⚡ System Mindset
