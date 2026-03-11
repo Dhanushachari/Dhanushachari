@@ -31,10 +31,12 @@
 
 ## 🖱️ Welcome To My System
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<img align="right" width="270" src="dhanushgif (1).png">
 
-  <!-- Left: Code block -->
-  <pre style="flex: 1; background-color: #1e1e1e; color: #d4d4d4; padding: 15px; border-radius: 8px; overflow-x: auto;">
+<div>
+
+```powershell
+
 C:\Users\Dhanush> system info
 
 User           : Dhanush Achari
@@ -60,14 +62,9 @@ If users say "nothing changed"
 C:\Users\Dhanush> system status
 
 All services running... mostly.
-  </pre>
+```
 
-  <!-- Right: Sticker -->
-  <div style="flex: 0 0 auto;">
-    <img src="dhanushgif (1).png" width="270"/>
-  </div>
-
-</div>
+<br clear="right">
 
 ## ⚙️ What I Work With — Systems & Automation
 
