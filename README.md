@@ -189,34 +189,27 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 
 ## 🧠 Troubleshooting Focus
 
-<img align="left" width="280"  margin-top="500" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
+<img align="left" width="300"  src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
 
 <pre>
-Troubleshooting Map
 
-├─ Windows Systems
-│  ├ Login failures
-│  ├ Slow performance
-│  └ Startup problems
+System Layer
+ ├─ Windows Login Diagnostics
+ ├─ System Performance Analysis
+ └─ Service Failure Investigation
 
-├─ Active Directory
-│  ├ Password resets
-│  ├ Account unlocks
-│  └ User access issues
+Infrastructure Layer
+ ├─ Active Directory User Management
+ ├─ DNS / DHCP Analysis
+ └─ VPN Connectivity Issues
 
-├─ Microsoft 365
-│  ├ Outlook configuration
-│  ├ Mailbox sync problems
-│  └ Account connectivity
+Application Layer
+ ├─ Outlook Configuration
+ ├─ Microsoft 365 Access Issues
+ └─ OneDrive Sync Troubleshooting
 
-├─ Networking
-│  ├ DNS resolution
-│  ├ DHCP assignment
-│  └ VPN connectivity
-
-└─ Devices
-   ├ Printers
-   └ Peripheral setup
+Device Layer
+ └─ Printer & Peripheral Support
 </pre>
 
 <br>
