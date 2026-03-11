@@ -31,7 +31,7 @@
 
 
 
-<img align="right" width="300" src="WhatsApp%20Image%202026-03-11%20at%2010.36.26%20PM.jpeg">
+<img align="right" width="300" src="dhanushgif.png">
 
 🔍 I spend a lot of time exploring **how systems actually behave behind the scenes.**
 
