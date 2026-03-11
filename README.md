@@ -30,22 +30,34 @@
 
 <img align="right" width="270" src="dhanushgif (1).png">
 
+<div>
 
-```
+<img src="https://img.shields.io/badge/Terminal-Dhanush%20System%20Profile-black?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
+
+```bash
 SYSTEM PROFILE
 ──────────────
-Engineer        : Dhanush Achari
-Role            : IT Support / Infrastructure Troubleshooting
-Focus           : Windows Systems • Networking • Automation
-Learning Mode   : Active
+Engineer      : Dhanush Achari
+Role          : IT Support / System Troubleshooter
+Focus         : Windows • Networking • Automation
+Status        : Learning Mode — Always ON
 
+LAB APPROACH
+────────────
+• Build labs
+• Break things (intentionally)
+• Read logs like detective stories
+• Fix systems before users panic
 
 ENGINEER MINDSET
 ────────────────
-Understand how systems behave,
-how they fail,
-and how to bring them back online.
+If it works → understand it
+If it breaks → investigate it
+If it's weird → reproduce it
+If users say "nothing changed" → start digging
 ```
+
+</div>
 
 <br clear="right">
 
