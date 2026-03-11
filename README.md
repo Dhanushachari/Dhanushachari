@@ -31,7 +31,7 @@
 
 ## 🖱️ Welcome To My System
 
-<img align="right" width="350" src="dhanushgif (1).png">
+<img align="right" width="370" src="dhanushgif (1).png">
 
 ```powershell
 
@@ -39,11 +39,10 @@ C:\Users\Dhanush> system info
 
 User           : Dhanush Achari
 Role           : IT Support / Infrastructure Troubleshooter
+Skills         : Troubleshooting • Diagnostics • Root Cause Analysis
 Focus          : Windows Systems • Networking • Automation
 Learning Mode  : Continuous
 Uptime         : Still debugging systems
-
-Skills         : Troubleshooting • Diagnostics • Root Cause Analysis
 Tools          : PowerShell • RDP • AD • DNS • VPN
 Logs Read      : Too many to count
 Bugs Found     : More than expected
