@@ -231,12 +231,18 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 </p>
 <br>
 
-<h2 align="center">🧩 Entering the Matrix</h2>
+<h2 align="center">🌍 Global Contribution Map</h2>
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7TKsQ8UQ7p7bX6XG/giphy.gif" width="800"/>
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+<h2 align="center">🌎 Developer Activity Globe</h2>
+
+<p align="center">
+<img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/main/assets/github-globe.gif" width="500">
 </p>
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dhanushachari&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
