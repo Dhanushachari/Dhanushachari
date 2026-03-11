@@ -28,21 +28,33 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="290" src="dhanushgif (1).png">
+<img align="right" width="270" src="dhanushgif (1).png">
 
-🔍 I spend a lot of time exploring **how systems actually behave behind the scenes.**
+<img align="right" width="240" src="dhanushgif.png">
 
-🧪 Most of my learning happens through  
-**building small labs, experimenting with configurations, and sometimes intentionally breaking things** to understand how they fail.
+```
+SYSTEM PROFILE
+──────────────
+Engineer        : Dhanush Achari
+Role            : IT Support / Infrastructure Troubleshooting
+Focus           : Windows Systems • Networking • Automation
+Learning Mode   : Active
 
-⚙️ Right now my focus is on understanding  
-**how real environments work and how to troubleshoot them efficiently.**
+LAB APPROACH
+────────────
+• Build small infrastructure labs
+• Break configurations intentionally
+• Investigate failure patterns
+• Restore system stability
 
-🛠️ I like documenting what I learn, troubleshooting issues methodically, and improving my ability to analyze systems when something unexpected happens.
-
+ENGINEER MINDSET
+────────────────
+Understand how systems behave,
+how they fail,
+and how to bring them back online.
+```
 
 <br clear="right">
-
 
 ## ⚙️ What I Work With — Systems & Automation
 
