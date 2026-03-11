@@ -29,7 +29,7 @@
 ## 🧑‍💻 About Me
 
 <p>
-<img align="right" width="240" src="dhanushgif.png" style="margin-top:20px;">
+<img align="right" width="240" src="dhanushgif2.png" style="margin-top:20px;">
 </p>
 
 🔍 I spend a lot of time exploring **how systems actually behave behind the scenes.**
