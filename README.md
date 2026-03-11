@@ -239,11 +239,13 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 Understanding systems by intentionally breaking them, diagnosing the issue, and restoring stability.
 </p>
 
-> 🔧 **Break DNS resolution** to understand name-lookup failures  
-> ⚙️ **Disable critical services** to observe system impact  
-> 🔐 **Lock user accounts** to practice recovery procedures  
-> 🧩 **Corrupt configurations** to simulate troubleshooting scenarios  
-> 🌐 **Simulate VPN failures** and connectivity issues
+---
+
+> 🔧 Break DNS resolution to understand failures  
+> ⚙️ Disable critical services to observe system impact  
+> 🔐 Lock user accounts to practice recovery procedures  
+> 🧩 Corrupt configurations to simulate troubleshooting scenarios  
+> 🌐 Simulate VPN failures
 
 
 
