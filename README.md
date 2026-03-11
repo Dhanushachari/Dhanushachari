@@ -220,7 +220,7 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=Infrastructure+Engineer;Windows+Troubleshooting;Automation+Learning;System+Diagnostics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhanushachari&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🔥 Contribution Streak
