@@ -187,23 +187,49 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 
 <br>
 
-## 🧠 Troubleshooting Focus
+## 🧠 Troubleshooting Skill Tree
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Windows_Login_Issues-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<table>
+<tr>
+<td width="40%" align="center">
 
-<img src="https://img.shields.io/badge/System_Performance_Troubleshooting-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="260"/>
 
-<img src="https://img.shields.io/badge/Active_Directory_User_Management-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
+</td>
 
-<img src="https://img.shields.io/badge/Microsoft_365_&_Outlook_Support-D83B01?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+<td width="60%" align="left">
 
-<img src="https://img.shields.io/badge/Network_Issues_(DNS_DHCP_VPN)-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
+<pre>
 
-<img src="https://img.shields.io/badge/Printer_&_Peripheral_Support-444444?style=for-the-badge&logo=hp&logoColor=white" />
+Troubleshooting Skill Tree
 
-</p>
+System Layer
+ ├─ Windows Login Diagnostics
+ ├─ System Performance Analysis
+ └─ Service Failure Investigation
+
+Infrastructure Layer
+ ├─ Active Directory User Management
+ ├─ DNS / DHCP Analysis
+ └─ VPN Connectivity Issues
+
+Application Layer
+ ├─ Outlook Configuration
+ ├─ Microsoft 365 Access Issues
+ └─ OneDrive Sync Troubleshooting
+
+Device Layer
+ └─ Printer & Peripheral Support
+
+</pre>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
