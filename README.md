@@ -32,7 +32,11 @@
 
 <div>
 
-<img src="https://img.shields.io/badge/Terminal-Dhanush%20System%20Profile-black?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/●-red"/>
+<img src="https://img.shields.io/badge/●-yellow"/>
+<img src="https://img.shields.io/badge/●-green"/>
+</p>
 
 ```bash
 SYSTEM PROFILE
