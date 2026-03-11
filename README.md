@@ -219,12 +219,9 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushachari&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
-## 🐍 Contribution Snake
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/dhanushachari/dhanushachari/output/snake.svg"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=Infrastructure+Engineer;Windows+Troubleshooting;Automation+Learning;System+Diagnostics"/>
 </p>
-<br>
 
 ## 🔥 Contribution Streak
 
