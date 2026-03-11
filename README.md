@@ -32,35 +32,47 @@
 
 <div>
 
-```bash
-$ dhanush --profile
+```powershell
+          ____________________________
+         |▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓|
+         | Windows Terminal - Dhanush |
+         |____________________________|
 
-Loading engineer configuration...
+C:\Users\Dhanush> system info
 
-Name        : Dhanush Achari
-Role        : IT Support / Infrastructure Troubleshooter
-Focus       : Windows Systems • Networking • Automation
-Status      : Curiosity Mode — Always Enabled
+User           : Dhanush Achari
+Role           : IT Support / Infrastructure Troubleshooter
+Focus          : Windows Systems • Networking • Automation
+Learning Mode  : Continuous
+Uptime         : Still debugging systems
 
-$ dhanush --lab
+Skills         : Troubleshooting • Diagnostics • Root Cause Analysis
+Tools          : PowerShell • RDP • AD • DNS • VPN
+Logs Read      : Too many to count
+Bugs Found     : More than expected
+```
+
+```powershell
+C:\Users\Dhanush> lab --run
 
 • Build small infrastructure labs
 • Break configurations intentionally
-• Analyze system behavior
-• Restore stability
+• Investigate failure patterns
+• Restore systems before users panic
+• Document fixes so future-me remembers
 
-$ dhanush --mindset
+C:\Users\Dhanush> mindset --show
 
-If it works     → understand it
-If it breaks    → investigate it
-If it's weird   → reproduce it
+If it works      → understand it
+If it breaks     → investigate it
+If it's weird    → reproduce it
 If users say "nothing changed"
-                → start digging
+                 → start digging
+
+C:\Users\Dhanush> system status
+
+All services running... mostly.
 ```
-
-<br clear="right">
-
-</div>
 
 <br clear="right">
 
