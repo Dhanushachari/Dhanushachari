@@ -212,13 +212,33 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 </pre>
 
 <br>
+## 🚀 Live System Monitor
 
-## 📈 Most Used Languages
+```text
+╔══════════════════════════════════════════════╗
+║            INFRASTRUCTURE MONITOR            ║
+╠══════════════════════════════════════════════╣
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushachari&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<br>
+System Status        : 🟢 ONLINE
+Troubleshooting Mode : 🟢 ACTIVE
+Automation Learning  : 🟡 IN PROGRESS
+
+CPU Diagnostics      : █████████░░ 85%
+Memory Analysis      : ███████░░░░ 70%
+Network Monitoring   : ████████░░░ 80%
+Log Investigation    : ███████░░░░ 65%
+
+Active Modules
+──────────────
+✔ Windows Systems
+✔ Active Directory
+✔ Microsoft 365
+✔ Network Diagnostics
+✔ PowerShell Automation
+
+Last Update          : Continuous Learning Mode
+
+╚══════════════════════════════════════════════╝
 
 ## 🔥 Contribution Streak
 
