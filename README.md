@@ -229,21 +229,21 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-## 🧪 “Things I Break on Purpose” Lab
+## 🧪 Lab Experiments — Things I Break on Purpose
 
 <p align="center">
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450">
 </p>
 
 <p align="center">
-Understanding systems, breaking them, fixing them, and making them better.
+Understanding systems by intentionally breaking them, diagnosing the issue, and restoring stability.
 </p>
 
-✔ Break DNS to understand resolution
-✔ Disable services to observe system impact
-✔ Lock user accounts to test recovery
-✔ Corrupt configs to practice troubleshooting
-✔ Simulate VPN failures
+- 🔧 Break DNS resolution to understand name-lookup failures  
+- ⚙️ Disable critical services to observe system impact  
+- 🔐 Lock user accounts to practice recovery procedures  
+- 🧩 Corrupt configurations to simulate real troubleshooting scenarios  
+- 🌐 Simulate VPN failures and connectivity issues
 
 
 
