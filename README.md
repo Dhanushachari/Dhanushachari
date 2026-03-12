@@ -32,7 +32,7 @@
 
 ## 🖱️ Welcome To My System
 
-<img align="right" width="270" src="dhanushgif6.png">
+<img align="right" width="270" src="dhanushgif9.png">
 
 ```powershell
 
@@ -262,10 +262,6 @@ Working Map
 <img src="https://github-readme-stats.vercel.app/api?username=dhanushachari&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 <br>
 
