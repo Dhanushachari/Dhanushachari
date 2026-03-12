@@ -267,7 +267,7 @@ Working Map
 
 ## 🧠 Inside the Engineer's Mind
 
-<img align="right" width="300" src="YOUR_IMAGE.gif">
+<img align="right" width="300" src="IMG_20260312_231533.png ">
 
 ```text
 SYSTEM: Engineer Cognitive Engine v2.4
