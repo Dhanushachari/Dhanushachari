@@ -219,10 +219,10 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 
 ## 🧠 Troubleshooting Focus
 
-<img align="left" width="120" hspace="20" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
+<img align="left" width="140" hspace="26" src="dhanushgif8.png">
 
 <pre>
-Troubleshooting Map
+Working Map
 
 ├─ Windows Systems
 │  ├ Login failures
