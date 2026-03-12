@@ -219,7 +219,7 @@ Using RDP, TeamViewer, and AnyDesk sessions to diagnose and resolve end-user sys
 
 ## 🧠 Troubleshooting Focus
 
-<img align="left" width="265" hspace="26" src="dhanushgif8.png">
+<img align="left" width="255" hspace="26" src="dhanushgif8.png">
 
 <pre>
 Working Map
