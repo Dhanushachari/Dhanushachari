@@ -287,8 +287,10 @@ SYSTEM: Engineer Cognitive Engine v2.4
 
 STATUS: Issue understood. System improved.
 MODE  : Continuous learning enabled.
+```
+<br clear="right"> 
 
-<br>
+
 
 ## 🧪 Lab Experiments — Things I Break on Purpose
 
