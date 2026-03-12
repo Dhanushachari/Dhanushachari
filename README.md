@@ -79,7 +79,7 @@ C:\Users\Dhanush> system status  →  All services running... mostly.
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=windows,linux,powershell,bash,python,git,docker,vscode,github,azure,kubernetes,terraform,ansible"/>
+<img src="https://skillicons.dev/icons?i=windows,linux,powershell,bash,python,git,vscode,github,azure,ansible"/>
 
 </p>
 
