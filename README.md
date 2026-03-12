@@ -32,7 +32,7 @@
 
 ## 🖱️ Welcome To My System
 
-<img align="right" width="430" src="dhanushgif5.jpeg">
+<img align="right" width="445" src="dhanushgif5.jpeg">
 
 ```powershell
 
